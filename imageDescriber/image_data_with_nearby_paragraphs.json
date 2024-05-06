@@ -1,0 +1,191 @@
+[
+    {
+        "filename": "page_2_image_1.png",
+        "path": "imgs/page_2_image_1.png",
+        "dimensions": {
+            "width": 7.050000000000011,
+            "height": 6.899999999999977
+        },
+        "coordinates": {
+            "x0": 356.45,
+            "y0": 497.8,
+            "x1": 363.5,
+            "y1": 504.7
+        },
+        "nearby_paragraph_chunks": [
+            "Consider three planes intersecting at a point O such that these three planes are mutually perpendicular to each other (Fig 11.1). These three planes intersect along the lines X\uf0a2OX, Y\uf0a2OY and Z\uf0a2OZ, called the x, y and z-axes, respectively.",
+            "We may note that these lines are mutually perpendicular to each other. These lines constitute the rectangular coordinate system. The planes XOY, YOZ and ZOX, called, respectively the XY-plane, YZ-plane and the ZX-plane, are known as the three coordinate planes. We take Fig 11.1 the XOY plane as the plane of the paper and the line Z\uf0a2OZ as perpendicular to the plane XOY. If the plane of the paper is considered as horizontal, then the line Z\uf0a2OZ will be vertical. The distances measured from XY- plane upwards in the direction of OZ are taken as positive and those measured downwards in the direction of OZ\uf0a2 are taken as negative. Similarly, the distance measured to the right of ZX-plane along OY are taken as positive, to the left of ZX- plane and along OY\uf0a2 as negative, in front of the YZ-plane along OX as positive and to the back of it along OX\uf0a2 as negative. The point O is called the origin of the coordinate system. The three coordinate planes divide the space into eight parts known as octants. These octants could be named as XOYZ, X\uf0a2OYZ, X\uf0a2OY\uf0a2Z, XOY\uf0a2Z, XOYZ\uf0a2, X\uf0a2OYZ\uf0a2, X\uf0a2OY\uf0a2Z\uf0a2 and XOY\uf0a2Z\uf0a2. and denoted by I, II, III, ..., VIII , respectively.",
+            "Given a point P in space, we drop a perpendicular PM on the XY-plane with M as the Fig 11.2 foot of this perpendicular (Fig 11.2). Then, from the point M, we draw a perpendicular ML to the x-axis, meeting it at L. Let OL be x, LM be y and MP be z. Then x,y and z are called the x, y and z coordinates, respectively, of the point P in the space. In Fig 11.2, we may note that the point P (x, y, z) lies in the octant XOYZ and so all x, y, z are positive. If P was in any other octant, the signs of x, y and z would change Rationalised 2023-24"
+        ]
+    },
+    {
+        "filename": "page_2_image_2.png",
+        "path": "imgs/page_2_image_2.png",
+        "dimensions": {
+            "width": 7.050000000000011,
+            "height": 6.649999999999977
+        },
+        "coordinates": {
+            "x0": 422.75,
+            "y0": 503.15,
+            "x1": 429.8,
+            "y1": 509.79999999999995
+        },
+        "nearby_paragraph_chunks": [
+            "Consider three planes intersecting at a point O such that these three planes are mutually perpendicular to each other (Fig 11.1). These three planes intersect along the lines X\uf0a2OX, Y\uf0a2OY and Z\uf0a2OZ, called the x, y and z-axes, respectively.",
+            "We may note that these lines are mutually perpendicular to each other. These lines constitute the rectangular coordinate system. The planes XOY, YOZ and ZOX, called, respectively the XY-plane, YZ-plane and the ZX-plane, are known as the three coordinate planes. We take Fig 11.1 the XOY plane as the plane of the paper and the line Z\uf0a2OZ as perpendicular to the plane XOY. If the plane of the paper is considered as horizontal, then the line Z\uf0a2OZ will be vertical. The distances measured from XY- plane upwards in the direction of OZ are taken as positive and those measured downwards in the direction of OZ\uf0a2 are taken as negative. Similarly, the distance measured to the right of ZX-plane along OY are taken as positive, to the left of ZX- plane and along OY\uf0a2 as negative, in front of the YZ-plane along OX as positive and to the back of it along OX\uf0a2 as negative. The point O is called the origin of the coordinate system. The three coordinate planes divide the space into eight parts known as octants. These octants could be named as XOYZ, X\uf0a2OYZ, X\uf0a2OY\uf0a2Z, XOY\uf0a2Z, XOYZ\uf0a2, X\uf0a2OYZ\uf0a2, X\uf0a2OY\uf0a2Z\uf0a2 and XOY\uf0a2Z\uf0a2. and denoted by I, II, III, ..., VIII , respectively.",
+            "Given a point P in space, we drop a perpendicular PM on the XY-plane with M as the Fig 11.2 foot of this perpendicular (Fig 11.2). Then, from the point M, we draw a perpendicular ML to the x-axis, meeting it at L. Let OL be x, LM be y and MP be z. Then x,y and z are called the x, y and z coordinates, respectively, of the point P in the space. In Fig 11.2, we may note that the point P (x, y, z) lies in the octant XOYZ and so all x, y, z are positive. If P was in any other octant, the signs of x, y and z would change Rationalised 2023-24"
+        ]
+    },
+    {
+        "filename": "page_2_image_3.png",
+        "path": "imgs/page_2_image_3.png",
+        "dimensions": {
+            "width": 6.349899999999991,
+            "height": 6.649999999999977
+        },
+        "coordinates": {
+            "x0": 352.45,
+            "y0": 558.55,
+            "x1": 358.7999,
+            "y1": 565.1999999999999
+        },
+        "nearby_paragraph_chunks": [
+            "Consider three planes intersecting at a point O such that these three planes are mutually perpendicular to each other (Fig 11.1). These three planes intersect along the lines X\uf0a2OX, Y\uf0a2OY and Z\uf0a2OZ, called the x, y and z-axes, respectively.",
+            "We may note that these lines are mutually perpendicular to each other. These lines constitute the rectangular coordinate system. The planes XOY, YOZ and ZOX, called, respectively the XY-plane, YZ-plane and the ZX-plane, are known as the three coordinate planes. We take Fig 11.1 the XOY plane as the plane of the paper and the line Z\uf0a2OZ as perpendicular to the plane XOY. If the plane of the paper is considered as horizontal, then the line Z\uf0a2OZ will be vertical. The distances measured from XY- plane upwards in the direction of OZ are taken as positive and those measured downwards in the direction of OZ\uf0a2 are taken as negative. Similarly, the distance measured to the right of ZX-plane along OY are taken as positive, to the left of ZX- plane and along OY\uf0a2 as negative, in front of the YZ-plane along OX as positive and to the back of it along OX\uf0a2 as negative. The point O is called the origin of the coordinate system. The three coordinate planes divide the space into eight parts known as octants. These octants could be named as XOYZ, X\uf0a2OYZ, X\uf0a2OY\uf0a2Z, XOY\uf0a2Z, XOYZ\uf0a2, X\uf0a2OYZ\uf0a2, X\uf0a2OY\uf0a2Z\uf0a2 and XOY\uf0a2Z\uf0a2. and denoted by I, II, III, ..., VIII , respectively.",
+            "Given a point P in space, we drop a perpendicular PM on the XY-plane with M as the Fig 11.2 foot of this perpendicular (Fig 11.2). Then, from the point M, we draw a perpendicular ML to the x-axis, meeting it at L. Let OL be x, LM be y and MP be z. Then x,y and z are called the x, y and z coordinates, respectively, of the point P in the space. In Fig 11.2, we may note that the point P (x, y, z) lies in the octant XOYZ and so all x, y, z are positive. If P was in any other octant, the signs of x, y and z would change Rationalised 2023-24"
+        ]
+    },
+    {
+        "filename": "page_2_image_4.png",
+        "path": "imgs/page_2_image_4.png",
+        "dimensions": {
+            "width": 8.399999999999977,
+            "height": 6.800000000000011
+        },
+        "coordinates": {
+            "x0": 350.55,
+            "y0": 446.85,
+            "x1": 358.95,
+            "y1": 453.65000000000003
+        },
+        "nearby_paragraph_chunks": [
+            "Consider three planes intersecting at a point O such that these three planes are mutually perpendicular to each other (Fig 11.1). These three planes intersect along the lines X\uf0a2OX, Y\uf0a2OY and Z\uf0a2OZ, called the x, y and z-axes, respectively.",
+            "We may note that these lines are mutually perpendicular to each other. These lines constitute the rectangular coordinate system. The planes XOY, YOZ and ZOX, called, respectively the XY-plane, YZ-plane and the ZX-plane, are known as the three coordinate planes. We take Fig 11.1 the XOY plane as the plane of the paper and the line Z\uf0a2OZ as perpendicular to the plane XOY. If the plane of the paper is considered as horizontal, then the line Z\uf0a2OZ will be vertical. The distances measured from XY- plane upwards in the direction of OZ are taken as positive and those measured downwards in the direction of OZ\uf0a2 are taken as negative. Similarly, the distance measured to the right of ZX-plane along OY are taken as positive, to the left of ZX- plane and along OY\uf0a2 as negative, in front of the YZ-plane along OX as positive and to the back of it along OX\uf0a2 as negative. The point O is called the origin of the coordinate system. The three coordinate planes divide the space into eight parts known as octants. These octants could be named as XOYZ, X\uf0a2OYZ, X\uf0a2OY\uf0a2Z, XOY\uf0a2Z, XOYZ\uf0a2, X\uf0a2OYZ\uf0a2, X\uf0a2OY\uf0a2Z\uf0a2 and XOY\uf0a2Z\uf0a2. and denoted by I, II, III, ..., VIII , respectively.",
+            "Given a point P in space, we drop a perpendicular PM on the XY-plane with M as the Fig 11.2 foot of this perpendicular (Fig 11.2). Then, from the point M, we draw a perpendicular ML to the x-axis, meeting it at L. Let OL be x, LM be y and MP be z. Then x,y and z are called the x, y and z coordinates, respectively, of the point P in the space. In Fig 11.2, we may note that the point P (x, y, z) lies in the octant XOYZ and so all x, y, z are positive. If P was in any other octant, the signs of x, y and z would change Rationalised 2023-24"
+        ]
+    },
+    {
+        "filename": "page_2_image_5.png",
+        "path": "imgs/page_2_image_5.png",
+        "dimensions": {
+            "width": 7.100000000000023,
+            "height": 6.649999999999977
+        },
+        "coordinates": {
+            "x0": 316.8,
+            "y0": 458.75,
+            "x1": 323.90000000000003,
+            "y1": 465.4
+        },
+        "nearby_paragraph_chunks": [
+            "Consider three planes intersecting at a point O such that these three planes are mutually perpendicular to each other (Fig 11.1). These three planes intersect along the lines X\uf0a2OX, Y\uf0a2OY and Z\uf0a2OZ, called the x, y and z-axes, respectively.",
+            "We may note that these lines are mutually perpendicular to each other. These lines constitute the rectangular coordinate system. The planes XOY, YOZ and ZOX, called, respectively the XY-plane, YZ-plane and the ZX-plane, are known as the three coordinate planes. We take Fig 11.1 the XOY plane as the plane of the paper and the line Z\uf0a2OZ as perpendicular to the plane XOY. If the plane of the paper is considered as horizontal, then the line Z\uf0a2OZ will be vertical. The distances measured from XY- plane upwards in the direction of OZ are taken as positive and those measured downwards in the direction of OZ\uf0a2 are taken as negative. Similarly, the distance measured to the right of ZX-plane along OY are taken as positive, to the left of ZX- plane and along OY\uf0a2 as negative, in front of the YZ-plane along OX as positive and to the back of it along OX\uf0a2 as negative. The point O is called the origin of the coordinate system. The three coordinate planes divide the space into eight parts known as octants. These octants could be named as XOYZ, X\uf0a2OYZ, X\uf0a2OY\uf0a2Z, XOY\uf0a2Z, XOYZ\uf0a2, X\uf0a2OYZ\uf0a2, X\uf0a2OY\uf0a2Z\uf0a2 and XOY\uf0a2Z\uf0a2. and denoted by I, II, III, ..., VIII , respectively.",
+            "Given a point P in space, we drop a perpendicular PM on the XY-plane with M as the Fig 11.2 foot of this perpendicular (Fig 11.2). Then, from the point M, we draw a perpendicular ML to the x-axis, meeting it at L. Let OL be x, LM be y and MP be z. Then x,y and z are called the x, y and z coordinates, respectively, of the point P in the space. In Fig 11.2, we may note that the point P (x, y, z) lies in the octant XOYZ and so all x, y, z are positive. If P was in any other octant, the signs of x, y and z would change Rationalised 2023-24"
+        ]
+    },
+    {
+        "filename": "page_2_image_6.png",
+        "path": "imgs/page_2_image_6.png",
+        "dimensions": {
+            "width": 9.050000000000011,
+            "height": 6.7999999999999545
+        },
+        "coordinates": {
+            "x0": 385.5,
+            "y0": 548.7,
+            "x1": 394.55,
+            "y1": 555.5
+        },
+        "nearby_paragraph_chunks": [
+            "Consider three planes intersecting at a point O such that these three planes are mutually perpendicular to each other (Fig 11.1). These three planes intersect along the lines X\uf0a2OX, Y\uf0a2OY and Z\uf0a2OZ, called the x, y and z-axes, respectively.",
+            "We may note that these lines are mutually perpendicular to each other. These lines constitute the rectangular coordinate system. The planes XOY, YOZ and ZOX, called, respectively the XY-plane, YZ-plane and the ZX-plane, are known as the three coordinate planes. We take Fig 11.1 the XOY plane as the plane of the paper and the line Z\uf0a2OZ as perpendicular to the plane XOY. If the plane of the paper is considered as horizontal, then the line Z\uf0a2OZ will be vertical. The distances measured from XY- plane upwards in the direction of OZ are taken as positive and those measured downwards in the direction of OZ\uf0a2 are taken as negative. Similarly, the distance measured to the right of ZX-plane along OY are taken as positive, to the left of ZX- plane and along OY\uf0a2 as negative, in front of the YZ-plane along OX as positive and to the back of it along OX\uf0a2 as negative. The point O is called the origin of the coordinate system. The three coordinate planes divide the space into eight parts known as octants. These octants could be named as XOYZ, X\uf0a2OYZ, X\uf0a2OY\uf0a2Z, XOY\uf0a2Z, XOYZ\uf0a2, X\uf0a2OYZ\uf0a2, X\uf0a2OY\uf0a2Z\uf0a2 and XOY\uf0a2Z\uf0a2. and denoted by I, II, III, ..., VIII , respectively.",
+            "Given a point P in space, we drop a perpendicular PM on the XY-plane with M as the Fig 11.2 foot of this perpendicular (Fig 11.2). Then, from the point M, we draw a perpendicular ML to the x-axis, meeting it at L. Let OL be x, LM be y and MP be z. Then x,y and z are called the x, y and z coordinates, respectively, of the point P in the space. In Fig 11.2, we may note that the point P (x, y, z) lies in the octant XOYZ and so all x, y, z are positive. If P was in any other octant, the signs of x, y and z would change Rationalised 2023-24"
+        ]
+    },
+    {
+        "filename": "page_2_image_7.png",
+        "path": "imgs/page_2_image_7.png",
+        "dimensions": {
+            "width": 9.050000000000011,
+            "height": 6.800000000000011
+        },
+        "coordinates": {
+            "x0": 274.3,
+            "y0": 503.0,
+            "x1": 283.35,
+            "y1": 509.8
+        },
+        "nearby_paragraph_chunks": [
+            "Consider three planes intersecting at a point O such that these three planes are mutually perpendicular to each other (Fig 11.1). These three planes intersect along the lines X\uf0a2OX, Y\uf0a2OY and Z\uf0a2OZ, called the x, y and z-axes, respectively.",
+            "We may note that these lines are mutually perpendicular to each other. These lines constitute the rectangular coordinate system. The planes XOY, YOZ and ZOX, called, respectively the XY-plane, YZ-plane and the ZX-plane, are known as the three coordinate planes. We take Fig 11.1 the XOY plane as the plane of the paper and the line Z\uf0a2OZ as perpendicular to the plane XOY. If the plane of the paper is considered as horizontal, then the line Z\uf0a2OZ will be vertical. The distances measured from XY- plane upwards in the direction of OZ are taken as positive and those measured downwards in the direction of OZ\uf0a2 are taken as negative. Similarly, the distance measured to the right of ZX-plane along OY are taken as positive, to the left of ZX- plane and along OY\uf0a2 as negative, in front of the YZ-plane along OX as positive and to the back of it along OX\uf0a2 as negative. The point O is called the origin of the coordinate system. The three coordinate planes divide the space into eight parts known as octants. These octants could be named as XOYZ, X\uf0a2OYZ, X\uf0a2OY\uf0a2Z, XOY\uf0a2Z, XOYZ\uf0a2, X\uf0a2OYZ\uf0a2, X\uf0a2OY\uf0a2Z\uf0a2 and XOY\uf0a2Z\uf0a2. and denoted by I, II, III, ..., VIII , respectively.",
+            "Given a point P in space, we drop a perpendicular PM on the XY-plane with M as the Fig 11.2 foot of this perpendicular (Fig 11.2). Then, from the point M, we draw a perpendicular ML to the x-axis, meeting it at L. Let OL be x, LM be y and MP be z. Then x,y and z are called the x, y and z coordinates, respectively, of the point P in the space. In Fig 11.2, we may note that the point P (x, y, z) lies in the octant XOYZ and so all x, y, z are positive. If P was in any other octant, the signs of x, y and z would change Rationalised 2023-24"
+        ]
+    },
+    {
+        "filename": "page_2_image_8.png",
+        "path": "imgs/page_2_image_8.png",
+        "dimensions": {
+            "width": 143.95,
+            "height": 115.55000000000001
+        },
+        "coordinates": {
+            "x0": 286.0,
+            "y0": 156.13,
+            "x1": 429.95,
+            "y1": 271.68
+        },
+        "nearby_paragraph_chunks": [
+            "Consider three planes intersecting at a point O such that these three planes are mutually perpendicular to each other (Fig 11.1). These three planes intersect along the lines X\uf0a2OX, Y\uf0a2OY and Z\uf0a2OZ, called the x, y and z-axes, respectively.",
+            "We may note that these lines are mutually perpendicular to each other. These lines constitute the rectangular coordinate system. The planes XOY, YOZ and ZOX, called, respectively the XY-plane, YZ-plane and the ZX-plane, are known as the three coordinate planes. We take Fig 11.1 the XOY plane as the plane of the paper and the line Z\uf0a2OZ as perpendicular to the plane XOY. If the plane of the paper is considered as horizontal, then the line Z\uf0a2OZ will be vertical. The distances measured from XY- plane upwards in the direction of OZ are taken as positive and those measured downwards in the direction of OZ\uf0a2 are taken as negative. Similarly, the distance measured to the right of ZX-plane along OY are taken as positive, to the left of ZX- plane and along OY\uf0a2 as negative, in front of the YZ-plane along OX as positive and to the back of it along OX\uf0a2 as negative. The point O is called the origin of the coordinate system. The three coordinate planes divide the space into eight parts known as octants. These octants could be named as XOYZ, X\uf0a2OYZ, X\uf0a2OY\uf0a2Z, XOY\uf0a2Z, XOYZ\uf0a2, X\uf0a2OYZ\uf0a2, X\uf0a2OY\uf0a2Z\uf0a2 and XOY\uf0a2Z\uf0a2. and denoted by I, II, III, ..., VIII , respectively.",
+            "Given a point P in space, we drop a perpendicular PM on the XY-plane with M as the Fig 11.2 foot of this perpendicular (Fig 11.2). Then, from the point M, we draw a perpendicular ML to the x-axis, meeting it at L. Let OL be x, LM be y and MP be z. Then x,y and z are called the x, y and z coordinates, respectively, of the point P in the space. In Fig 11.2, we may note that the point P (x, y, z) lies in the octant XOYZ and so all x, y, z are positive. If P was in any other octant, the signs of x, y and z would change Rationalised 2023-24"
+        ]
+    },
+    {
+        "filename": "page_3_image_1.png",
+        "path": "imgs/page_3_image_1.png",
+        "dimensions": {
+            "width": 164.3,
+            "height": 131.05
+        },
+        "coordinates": {
+            "x0": 264.25,
+            "y0": 331.9,
+            "x1": 428.55,
+            "y1": 462.95
+        },
+        "nearby_paragraph_chunks": [
+            "Alternatively, through the point P in the space, we draw three planes parallel to the coordinate planes, meeting the x-axis, y-axis and z-axis in the points A, B and C, respectively (Fig 11.3). Let OA = x, OB = y and OC = z.",
+            "Then, the point P will have the coordinates x, y and z and we write P (x, y, z). Conversely, given x, y and z, we locate the three points A, B and C on the three coordinate axes. Through the points A, B and C we draw planes parallel to the YZ-plane, ZX-plane and XY-plane, Fig 11.3 respectively. The point of interesection of these three planes, namely, ADPF, BDPE and CEPF is obviously the point P, corresponding to the ordered triplet (x, y, z). We observe that if P (x, y, z) is any point in the space, then x, y and z are perpendicular distances from YZ, ZX and XY planes, respectively."
+        ]
+    },
+    {
+        "filename": "page_4_image_1.png",
+        "path": "imgs/page_4_image_1.png",
+        "dimensions": {
+            "width": 191.35000000000002,
+            "height": 165.0
+        },
+        "coordinates": {
+            "x0": 236.25,
+            "y0": 123.0,
+            "x1": 427.6,
+            "y1": 288.0
+        },
+        "nearby_paragraph_chunks": [
+            "INTRODUCTION TO THREE DIMENSIONAL GEOMETRY 211 Example 1 In Fig 11.3, if P is (2,4,5), find the coordinates of F.",
+            "Through the points P and Q draw planes parallel to the coordinate planes so as to form a rectangular parallelopiped with one diagonal PQ (Fig 11.4).",
+            "Now, since \uf0d0PAQ is a right Fig 11.4 angle, it follows that, in triangle PAQ, PQ2 = PA2 + AQ2 ... (1) Also, triangle ANQ is right angle triangle with \uf0d0ANQ a right angle."
+        ]
+    }
+]

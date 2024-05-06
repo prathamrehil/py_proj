@@ -1,0 +1,252 @@
+0:00:00.610000 - Determine the domain and range
+0:00:02.310000 - of the function f of x is equal to
+3x squared plus 6x minus 2.
+0:00:08.070000 - So, the domain of the function is:
+what is a set of all of the valid inputs,
+0:00:12.845000 - or all of the valid x values
+for this function?
+0:00:16.209000 - And, I can take any real number,
+square it, multiply it by 3,
+0:00:19.760000 - then add 6 times that real number
+and then subtract 2 from it.
+0:00:23.150000 - So essentially any number if we're talking
+about reals when we talk about any number.
+0:00:27.690000 - So, the domain, the set
+of valid inputs, the set of
+0:00:30.674000 - inputs over which this function
+is defined, is all real numbers.
+0:00:35.280000 - So, the domain here is
+all real numbers.
+0:00:44.260000 - And, for those of you who might say, well,
+you know, aren't all numbers real?
+0:00:48.270000 - You may or may not know that
+there is a class of numbers,
+0:00:50.960000 - that are a little bit bizarre
+when you first learn them,
+0:00:53.750000 - called imaginary numbers
+and complex numbers.
+0:00:56.020000 - But, I won't go into that right now.
+0:00:57.790000 - But, most of the traditional
+numbers that you know of,
+0:01:00.397000 - they are part of
+the set of real numbers.
+0:01:02.520000 - It's pretty much
+everything but complex numbers.
+0:01:05.340000 - So, you take any real number
+and you put it here,
+0:01:07.868000 - you can square it, multiply it by 3,
+then add 6 times it and subtract 2.
+0:01:11.440000 - Now, the range, at least the way we've
+been thinking about it
+0:01:14.672000 - in this series of videos--
+0:01:16.520000 - The range is set of possible,
+outputs of this function.
+0:01:21.790000 - Or if we said y equals f of x
+on a graph, it's a set
+0:01:26.770000 - of all the possible y values.
+0:01:29.030000 - And, to get a flavor for this,
+I'm going to try to graph
+0:01:31.914000 - this function right over here.
+0:01:33.450000 - And, if you're familiar with quadratics--
+0:01:35.438000 - and that's what this function is
+right over here, it is a quadratic--
+0:01:38.770000 - you might already know
+that it has a parabolic shape.
+0:01:41.300000 - And, so its shape might look
+something like this.
+0:01:43.610000 - And, actually this one will
+look like this, it's upward opening.
+0:01:46.530000 - But other parabolas
+have shapes like that.
+0:01:48.540000 - And, you see when a parabola
+has a shape like this,
+0:01:51.201000 - it won't take on any values
+below its vertex when it's upward opening,
+0:01:55.127000 - and it won't take on any values above
+its vertex when it is downward opening.
+0:01:59.960000 - So, let's see if we can graph
+this and maybe get a sense of its vertex.
+0:02:04.450000 - There are ways
+to calculate the vertex exactly,
+0:02:07.420000 - but let's see how we can
+think about this problem.
+0:02:10.050000 - So, I'm gonna try some x and y values.
+0:02:12.840000 - There's other ways to directly compute the
+vertex.
+0:02:16.360000 - Negative b over 2a is the formula for it.
+0:02:18.850000 - It comes straight out of the quadratic
+0:02:19.990000 - formula, which you get from completing the
+square.
+0:02:22.300000 - Lets try some x values and lets see what f
+of x is equal to.
+0:02:27.140000 - So, let's try, well this the values we've
+been trying the last two videos.
+0:02:30.680000 - What happens when x is equal to negative
+two?
+0:02:33.610000 - Then f of x is 3 times negative 2 squared,
+which is 4, plus 6 times
+0:02:39.004000 - negative 2, which is 6 times negative 2,
+so it's minus 12 minus 2.
+0:02:44.870000 - So, this is 12 minus 12 minus 2.
+0:02:48.160000 - So, it's equal to negative 2.
+0:02:49.630000 - Now, what happens when x is equal to
+negative 1?
+0:02:53.660000 - So, this is going to be 3 times negative 1
+squared, which is just 1, minus, or I
+0:02:59.400000 - should say plus 6 times negative 1 which
+is
+0:03:02.434000 - minus 6 and then minus 2, and then minus
+2.
+0:03:07.450000 - So, this is 3 minus 6 is negative 3 minus
+0:03:10.402000 - 2 is equal negative 5, and that actually
+is the vertex.
+0:03:14.450000 - And, you know the formula for the vertex,
+once again, is negative b over 2 a.
+0:03:19.130000 - So, negative b.
+0:03:20.550000 - That's the coefficient on this term right
+over here.
+0:03:22.780000 - It's negative 6 over 2 times this one
+right over here, 2 times 3.
+0:03:26.860000 - 2 times 3, this is equal to negative 1.
+0:03:30.280000 - So, that is the vertex, but let's just
+keep on going right over here.
+0:03:34.070000 - So, what happens when x is equal to 0?
+0:03:36.200000 - These first two terms are 0, you're just
+left with a negative 2.
+0:03:40.170000 - When x is equal to positive 1.
+0:03:42.740000 - And, this is where you can see that this
+0:03:44.555000 - is the vertex, and you start seeing the
+symmetry.
+0:03:46.920000 - If you go one above the vertex, f of x is
+equal to negative 2.
+0:03:50.500000 - If you go one x value below the vertex, or
+below the x
+0:03:53.790000 - value of the vertex, f of x is equal to
+negative 2 again.
+0:03:56.910000 - But, let's just keep going.
+0:03:58.780000 - We could try, let's do one more point over
+here.
+0:04:01.170000 - So, we have, we could try, x is equal to
+1.
+0:04:04.250000 - When x is equal to 1, you have 3 times one
+squared which is 1.
+0:04:09.840000 - So, 3 times 1 plus 6 times 1, which is
+just 6, minus 2.
+0:04:14.070000 - So, this is 9 minus 2 it's equal to 7.
+0:04:16.800000 - And, that I think is enough points to give
+0:04:19.491000 - us a scaffold of what this graph will look
+like.
+0:04:22.730000 - What the graph of the function would look
+like.
+0:04:25.530000 - So, it would look something like this.
+0:04:28.040000 - I do my best to draw it.
+0:04:30.960000 - So, this is a x equals negative 2.
+0:04:34.030000 - We draw the whole axis.
+0:04:35.270000 - This is x is equal to negative 1, this is
+x is equal to, this is x is
+0:04:40.495000 - equal to 0 and then this is x is equal to
+1 right over there and then
+0:04:45.720000 - when x is equal to, we go from negative 2
+all the way to positive.
+0:04:50.980000 - Or, we should go from negative 5 all the
+way to positive 7.
+0:04:54.530000 - So, let's say this is negative 1,2,3,4,5.
+0:05:00.210000 - That's negative five over there on the y
+axis,
+0:05:03.450000 - y axis and then it will go to positive 7.
+0:05:06.760000 - One, two, three, four, five, six, seven.
+0:05:12.330000 - I could keep going, this is in the y, and
+we're going
+0:05:15.210000 - to set y equal to whatever our output of
+the function is.
+0:05:18.540000 - Y is equal to f of x.
+0:05:20.310000 - And this is one right here.
+0:05:22.110000 - So, lets plot the points.
+0:05:23.210000 - You have the point negative 2, negative 2.
+0:05:26.480000 - When x is negative 2, this is the x axis.
+0:05:28.710000 - When x is negative 2, y is negative 2.
+0:05:32.400000 - Y is negative 2 so that is that right over
+3.
+0:05:36.600000 - So, that is the point, that is the point
+negative 2, negative 2.
+0:05:41.500000 - Fair enough?
+0:05:42.258000 - Then, we have this point that we have this
+pink or purplish color.
+0:05:47.130000 - Negative, when x is negative 1, f of x is
+negative 5.
+0:05:49.900000 - When x is negative 1, f of x is negative
+5.
+0:05:53.010000 - And, we already said that this is the
+vertex.
+0:05:54.590000 - And, you'll see the symmetry around it in
+a second.
+0:05:56.960000 - So, this is the point negative 1, negative
+5.
+0:05:59.914000 - And then, with the point 0, negative 2.
+0:06:03.550000 - 0, negative when x is a 0, y is negative
+2, for f' of x is negative
+0:06:09.234000 - 2 or f of 0 is negative 2, so this is the
+point 0, negative 2,
+0:06:14.624000 - and then finally when x is equal to 1 and
+f of 1 is 7, f of 1 is 7.
+0:06:20.050000 - So, that's right there it's a point 1, 7
+and it gives us a
+0:06:24.895000 - scaffold for what this parabola, what this
+curve will look like.
+0:06:30.740000 - So, I'll try my best to draw it
+respectably.
+0:06:34.560000 - So, it would look something, something
+like
+0:06:37.563000 - that, and keep on going in that direction.
+0:06:40.830000 - Keep on going in that direction.
+0:06:42.320000 - But, I think you see the symmetry around
+the vertex.
+0:06:45 - That if you were to.
+0:06:46.260000 - If you were to put a line right over here,
+the
+0:06:47.870000 - two sides are kind of the mirror images of
+each other.
+0:06:50.190000 - There, you can flip them over, and that's
+how we know it's the vertex.
+0:06:53.143000 - And, that's how we also know, because this
+is an upward opening parabola, I
+0:06:56.839000 - mean, there is formulas for vertex, and
+there are multiple ways of calculating it.
+0:07:01.008000 - But, since it's an upward opening
+parabola, where
+0:07:03.483000 - the vertex is going to be, the minimum
+point.
+0:07:05.652000 - This is the minimum value that the
+parabola will take on.
+0:07:08.960000 - So, going back to the original question,
+this is all for trying to figure out
+0:07:12.210000 - the range, the set of y values, the set of
+outputs that this function can generate.
+0:07:16.150000 - You see that the function, it can get as
+low as negative 5.
+0:07:19.920000 - It got all the way down to negative 5
+right at the vertex.
+0:07:22.560000 - But, as you go to the right, as x values
+increase to
+0:07:25.699000 - the right or decrease to the left, then
+the parabola goes upwards.
+0:07:30.160000 - So, the parabola can never give you
+values--
+0:07:32.440000 - f of x is never going to be less than
+negative 5.
+0:07:36.040000 - So, our domain,
+but it can take on all the vaues.
+0:07:37.920000 - It can keep on increasing forever as x
+gets
+0:07:39.810000 - larger, x gets smaller farther away from
+the vertex.
+0:07:42.750000 - So, our range, so we already said our
+domain is all real numbers.
+0:07:46.432000 - Our range, the possible y values
+is all real
+0:07:52.463000 - numbers greater than or equal to negative
+5.
+0:07:58.866000 - It can take on the value of any
+0:08:00.234000 - real number greater than or equal to
+negative 5.
+0:08:02.646000 - Nothing less than negative 5.

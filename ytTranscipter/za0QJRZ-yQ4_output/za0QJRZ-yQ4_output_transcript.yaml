@@ -1,0 +1,796 @@
+- end_time: 2.31
+  keyframe_path: null
+  start_time: 0.61
+  text: Determine the domain and range
+- end_time: 8.07
+  keyframe_path: null
+  start_time: 2.31
+  text: 'of the function f of x is equal to
+
+    3x squared plus 6x minus 2.'
+- end_time: 12.845
+  keyframe_path: null
+  start_time: 8.07
+  text: 'So, the domain of the function is:
+
+    what is a set of all of the valid inputs,'
+- end_time: 16.209
+  keyframe_path: null
+  start_time: 12.845
+  text: 'or all of the valid x values
+
+    for this function?'
+- end_time: 19.759999999999998
+  keyframe_path: null
+  start_time: 16.209
+  text: 'And, I can take any real number,
+
+    square it, multiply it by 3,'
+- end_time: 23.150000000000002
+  keyframe_path: null
+  start_time: 19.76
+  text: 'then add 6 times that real number
+
+    and then subtract 2 from it.'
+- end_time: 27.689999999999998
+  keyframe_path: null
+  start_time: 23.15
+  text: 'So essentially any number if we''re talking
+
+    about reals when we talk about any number.'
+- end_time: 30.674
+  keyframe_path: null
+  start_time: 27.69
+  text: 'So, the domain, the set
+
+    of valid inputs, the set of'
+- end_time: 35.28
+  keyframe_path: null
+  start_time: 30.674
+  text: 'inputs over which this function
+
+    is defined, is all real numbers.'
+- end_time: 39.61
+  keyframe_path: null
+  start_time: 35.28
+  text: 'So, the domain here is
+
+    all real numbers.'
+- end_time: 48.269999999999996
+  keyframe_path: null
+  start_time: 44.26
+  text: 'And, for those of you who might say, well,
+
+    you know, aren''t all numbers real?'
+- end_time: 50.96
+  keyframe_path: null
+  start_time: 48.27
+  text: 'You may or may not know that
+
+    there is a class of numbers,'
+- end_time: 53.75
+  keyframe_path: null
+  start_time: 50.96
+  text: 'that are a little bit bizarre
+
+    when you first learn them,'
+- end_time: 56.02
+  keyframe_path: null
+  start_time: 53.75
+  text: 'called imaginary numbers
+
+    and complex numbers.'
+- end_time: 57.790000000000006
+  keyframe_path: null
+  start_time: 56.02
+  text: But, I won't go into that right now.
+- end_time: 60.397
+  keyframe_path: null
+  start_time: 57.79
+  text: 'But, most of the traditional
+
+    numbers that you know of,'
+- end_time: 62.519999999999996
+  keyframe_path: null
+  start_time: 60.397
+  text: 'they are part of
+
+    the set of real numbers.'
+- end_time: 65.34
+  keyframe_path: null
+  start_time: 62.52
+  text: 'It''s pretty much
+
+    everything but complex numbers.'
+- end_time: 67.86800000000001
+  keyframe_path: null
+  start_time: 65.34
+  text: 'So, you take any real number
+
+    and you put it here,'
+- end_time: 71.44
+  keyframe_path: null
+  start_time: 67.868
+  text: 'you can square it, multiply it by 3,
+
+    then add 6 times it and subtract 2.'
+- end_time: 74.672
+  keyframe_path: null
+  start_time: 71.44
+  text: 'Now, the range, at least the way we''ve
+
+    been thinking about it'
+- end_time: 76.52
+  keyframe_path: null
+  start_time: 74.672
+  text: in this series of videos--
+- end_time: 81.78999999999999
+  keyframe_path: null
+  start_time: 76.52
+  text: 'The range is set of possible,
+
+    outputs of this function.'
+- end_time: 86.77000000000001
+  keyframe_path: null
+  start_time: 81.79
+  text: 'Or if we said y equals f of x
+
+    on a graph, it''s a set'
+- end_time: 89.03
+  keyframe_path: null
+  start_time: 86.77
+  text: of all the possible y values.
+- end_time: 91.914
+  keyframe_path: null
+  start_time: 89.03
+  text: 'And, to get a flavor for this,
+
+    I''m going to try to graph'
+- end_time: 93.45
+  keyframe_path: null
+  start_time: 91.914
+  text: this function right over here.
+- end_time: 95.438
+  keyframe_path: null
+  start_time: 93.45
+  text: And, if you're familiar with quadratics--
+- end_time: 98.77
+  keyframe_path: null
+  start_time: 95.438
+  text: 'and that''s what this function is
+
+    right over here, it is a quadratic--'
+- end_time: 101.3
+  keyframe_path: null
+  start_time: 98.77
+  text: 'you might already know
+
+    that it has a parabolic shape.'
+- end_time: 103.61
+  keyframe_path: null
+  start_time: 101.3
+  text: 'And, so its shape might look
+
+    something like this.'
+- end_time: 106.53
+  keyframe_path: null
+  start_time: 103.61
+  text: 'And, actually this one will
+
+    look like this, it''s upward opening.'
+- end_time: 108.54
+  keyframe_path: null
+  start_time: 106.53
+  text: 'But other parabolas
+
+    have shapes like that.'
+- end_time: 111.20100000000001
+  keyframe_path: null
+  start_time: 108.54
+  text: 'And, you see when a parabola
+
+    has a shape like this,'
+- end_time: 115.127
+  keyframe_path: null
+  start_time: 111.201
+  text: 'it won''t take on any values
+
+    below its vertex when it''s upward opening,'
+- end_time: 119.96
+  keyframe_path: null
+  start_time: 115.127
+  text: 'and it won''t take on any values above
+
+    its vertex when it is downward opening.'
+- end_time: 124.44999999999999
+  keyframe_path: null
+  start_time: 119.96
+  text: 'So, let''s see if we can graph
+
+    this and maybe get a sense of its vertex.'
+- end_time: 127.42
+  keyframe_path: null
+  start_time: 124.45
+  text: 'There are ways
+
+    to calculate the vertex exactly,'
+- end_time: 130.05
+  keyframe_path: null
+  start_time: 127.42
+  text: 'but let''s see how we can
+
+    think about this problem.'
+- end_time: 132.84
+  keyframe_path: null
+  start_time: 130.05
+  text: So, I'm gonna try some x and y values.
+- end_time: 136.36
+  keyframe_path: null
+  start_time: 132.84
+  text: 'There''s other ways to directly compute the
+
+    vertex.'
+- end_time: 138.85000000000002
+  keyframe_path: null
+  start_time: 136.36
+  text: Negative b over 2a is the formula for it.
+- end_time: 139.98999999999998
+  keyframe_path: null
+  start_time: 138.85
+  text: It comes straight out of the quadratic
+- end_time: 142.3
+  keyframe_path: null
+  start_time: 139.99
+  text: 'formula, which you get from completing the
+
+    square.'
+- end_time: 147.14000000000001
+  keyframe_path: null
+  start_time: 142.3
+  text: 'Lets try some x values and lets see what f
+
+    of x is equal to.'
+- end_time: 150.67999999999998
+  keyframe_path: null
+  start_time: 147.14
+  text: 'So, let''s try, well this the values we''ve
+
+    been trying the last two videos.'
+- end_time: 153.61
+  keyframe_path: null
+  start_time: 150.68
+  text: 'What happens when x is equal to negative
+
+    two?'
+- end_time: 159.00400000000002
+  keyframe_path: null
+  start_time: 153.61
+  text: 'Then f of x is 3 times negative 2 squared,
+
+    which is 4, plus 6 times'
+- end_time: 164.87
+  keyframe_path: null
+  start_time: 159.004
+  text: 'negative 2, which is 6 times negative 2,
+
+    so it''s minus 12 minus 2.'
+- end_time: 168.16
+  keyframe_path: null
+  start_time: 164.87
+  text: So, this is 12 minus 12 minus 2.
+- end_time: 169.63
+  keyframe_path: null
+  start_time: 168.16
+  text: So, it's equal to negative 2.
+- end_time: 173.66
+  keyframe_path: null
+  start_time: 169.63
+  text: 'Now, what happens when x is equal to
+
+    negative 1?'
+- end_time: 179.4
+  keyframe_path: null
+  start_time: 173.66
+  text: 'So, this is going to be 3 times negative 1
+
+    squared, which is just 1, minus, or I'
+- end_time: 182.434
+  keyframe_path: null
+  start_time: 179.4
+  text: 'should say plus 6 times negative 1 which
+
+    is'
+- end_time: 185.69
+  keyframe_path: null
+  start_time: 182.434
+  text: 'minus 6 and then minus 2, and then minus
+
+    2.'
+- end_time: 190.402
+  keyframe_path: null
+  start_time: 187.45
+  text: So, this is 3 minus 6 is negative 3 minus
+- end_time: 194.45
+  keyframe_path: null
+  start_time: 190.402
+  text: '2 is equal negative 5, and that actually
+
+    is the vertex.'
+- end_time: 199.13
+  keyframe_path: null
+  start_time: 194.45
+  text: 'And, you know the formula for the vertex,
+
+    once again, is negative b over 2 a.'
+- end_time: 200.54999999999998
+  keyframe_path: null
+  start_time: 199.13
+  text: So, negative b.
+- end_time: 202.78
+  keyframe_path: null
+  start_time: 200.55
+  text: 'That''s the coefficient on this term right
+
+    over here.'
+- end_time: 206.86
+  keyframe_path: null
+  start_time: 202.78
+  text: 'It''s negative 6 over 2 times this one
+
+    right over here, 2 times 3.'
+- end_time: 210.28
+  keyframe_path: null
+  start_time: 206.86
+  text: 2 times 3, this is equal to negative 1.
+- end_time: 214.07
+  keyframe_path: null
+  start_time: 210.28
+  text: 'So, that is the vertex, but let''s just
+
+    keep on going right over here.'
+- end_time: 216.2
+  keyframe_path: null
+  start_time: 214.07
+  text: So, what happens when x is equal to 0?
+- end_time: 219.13299999999998
+  keyframe_path: null
+  start_time: 216.2
+  text: 'These first two terms are 0, you''re just
+
+    left with a negative 2.'
+- end_time: 222.73999999999998
+  keyframe_path: null
+  start_time: 220.17
+  text: When x is equal to positive 1.
+- end_time: 224.555
+  keyframe_path: null
+  start_time: 222.74
+  text: And, this is where you can see that this
+- end_time: 226.92000000000002
+  keyframe_path: null
+  start_time: 224.555
+  text: 'is the vertex, and you start seeing the
+
+    symmetry.'
+- end_time: 230.5
+  keyframe_path: null
+  start_time: 226.92
+  text: 'If you go one above the vertex, f of x is
+
+    equal to negative 2.'
+- end_time: 233.79
+  keyframe_path: null
+  start_time: 230.5
+  text: 'If you go one x value below the vertex, or
+
+    below the x'
+- end_time: 236.91
+  keyframe_path: null
+  start_time: 233.79
+  text: 'value of the vertex, f of x is equal to
+
+    negative 2 again.'
+- end_time: 238.78
+  keyframe_path: null
+  start_time: 236.91
+  text: But, let's just keep going.
+- end_time: 241.17
+  keyframe_path: null
+  start_time: 238.78
+  text: 'We could try, let''s do one more point over
+
+    here.'
+- end_time: 244.25
+  keyframe_path: null
+  start_time: 241.17
+  text: 'So, we have, we could try, x is equal to
+
+    1.'
+- end_time: 249.84
+  keyframe_path: null
+  start_time: 244.25
+  text: 'When x is equal to 1, you have 3 times one
+
+    squared which is 1.'
+- end_time: 254.07
+  keyframe_path: null
+  start_time: 249.84
+  text: 'So, 3 times 1 plus 6 times 1, which is
+
+    just 6, minus 2.'
+- end_time: 256.8
+  keyframe_path: null
+  start_time: 254.07
+  text: So, this is 9 minus 2 it's equal to 7.
+- end_time: 259.491
+  keyframe_path: null
+  start_time: 256.8
+  text: And, that I think is enough points to give
+- end_time: 262.72999999999996
+  keyframe_path: null
+  start_time: 259.491
+  text: 'us a scaffold of what this graph will look
+
+    like.'
+- end_time: 265.53000000000003
+  keyframe_path: null
+  start_time: 262.73
+  text: 'What the graph of the function would look
+
+    like.'
+- end_time: 268.03999999999996
+  keyframe_path: null
+  start_time: 265.53
+  text: So, it would look something like this.
+- end_time: 269.69
+  keyframe_path: null
+  start_time: 268.04
+  text: I do my best to draw it.
+- end_time: 274.03
+  keyframe_path: null
+  start_time: 270.96
+  text: So, this is a x equals negative 2.
+- end_time: 275.27
+  keyframe_path: null
+  start_time: 274.03
+  text: We draw the whole axis.
+- end_time: 280.495
+  keyframe_path: null
+  start_time: 275.27
+  text: 'This is x is equal to negative 1, this is
+
+    x is equal to, this is x is'
+- end_time: 285.72
+  keyframe_path: null
+  start_time: 280.495
+  text: 'equal to 0 and then this is x is equal to
+
+    1 right over there and then'
+- end_time: 290.98
+  keyframe_path: null
+  start_time: 285.72
+  text: 'when x is equal to, we go from negative 2
+
+    all the way to positive.'
+- end_time: 294.53000000000003
+  keyframe_path: null
+  start_time: 290.98
+  text: 'Or, we should go from negative 5 all the
+
+    way to positive 7.'
+- end_time: 300.21
+  keyframe_path: null
+  start_time: 294.53
+  text: So, let's say this is negative 1,2,3,4,5.
+- end_time: 303.45
+  keyframe_path: null
+  start_time: 300.21
+  text: 'That''s negative five over there on the y
+
+    axis,'
+- end_time: 306.76
+  keyframe_path: null
+  start_time: 303.45
+  text: y axis and then it will go to positive 7.
+- end_time: 312.33
+  keyframe_path: null
+  start_time: 306.76
+  text: One, two, three, four, five, six, seven.
+- end_time: 315.21
+  keyframe_path: null
+  start_time: 312.33
+  text: 'I could keep going, this is in the y, and
+
+    we''re going'
+- end_time: 318.53999999999996
+  keyframe_path: null
+  start_time: 315.21
+  text: 'to set y equal to whatever our output of
+
+    the function is.'
+- end_time: 320.31
+  keyframe_path: null
+  start_time: 318.54
+  text: Y is equal to f of x.
+- end_time: 322.11
+  keyframe_path: null
+  start_time: 320.31
+  text: And this is one right here.
+- end_time: 323.21000000000004
+  keyframe_path: null
+  start_time: 322.11
+  text: So, lets plot the points.
+- end_time: 326.47999999999996
+  keyframe_path: null
+  start_time: 323.21
+  text: You have the point negative 2, negative 2.
+- end_time: 328.71000000000004
+  keyframe_path: null
+  start_time: 326.48
+  text: When x is negative 2, this is the x axis.
+- end_time: 332.4
+  keyframe_path: null
+  start_time: 328.71
+  text: When x is negative 2, y is negative 2.
+- end_time: 335.59
+  keyframe_path: null
+  start_time: 332.4
+  text: 'Y is negative 2 so that is that right over
+
+    3.'
+- end_time: 341.5
+  keyframe_path: null
+  start_time: 336.6
+  text: 'So, that is the point, that is the point
+
+    negative 2, negative 2.'
+- end_time: 342.258
+  keyframe_path: null
+  start_time: 341.5
+  text: Fair enough?
+- end_time: 347.13
+  keyframe_path: null
+  start_time: 342.258
+  text: 'Then, we have this point that we have this
+
+    pink or purplish color.'
+- end_time: 349.9
+  keyframe_path: null
+  start_time: 347.13
+  text: 'Negative, when x is negative 1, f of x is
+
+    negative 5.'
+- end_time: 353.01
+  keyframe_path: null
+  start_time: 349.9
+  text: 'When x is negative 1, f of x is negative
+
+    5.'
+- end_time: 354.59
+  keyframe_path: null
+  start_time: 353.01
+  text: 'And, we already said that this is the
+
+    vertex.'
+- end_time: 356.96
+  keyframe_path: null
+  start_time: 354.59
+  text: 'And, you''ll see the symmetry around it in
+
+    a second.'
+- end_time: 359.914
+  keyframe_path: null
+  start_time: 356.96
+  text: 'So, this is the point negative 1, negative
+
+    5.'
+- end_time: 363.55
+  keyframe_path: null
+  start_time: 359.914
+  text: And then, with the point 0, negative 2.
+- end_time: 369.23400000000004
+  keyframe_path: null
+  start_time: 363.55
+  text: '0, negative when x is a 0, y is negative
+
+    2, for f'' of x is negative'
+- end_time: 374.62399999999997
+  keyframe_path: null
+  start_time: 369.234
+  text: '2 or f of 0 is negative 2, so this is the
+
+    point 0, negative 2,'
+- end_time: 380.05
+  keyframe_path: null
+  start_time: 374.624
+  text: 'and then finally when x is equal to 1 and
+
+    f of 1 is 7, f of 1 is 7.'
+- end_time: 384.89500000000004
+  keyframe_path: null
+  start_time: 380.05
+  text: 'So, that''s right there it''s a point 1, 7
+
+    and it gives us a'
+- end_time: 390.74
+  keyframe_path: null
+  start_time: 384.895
+  text: 'scaffold for what this parabola, what this
+
+    curve will look like.'
+- end_time: 394.56
+  keyframe_path: null
+  start_time: 390.74
+  text: 'So, I''ll try my best to draw it
+
+    respectably.'
+- end_time: 397.563
+  keyframe_path: null
+  start_time: 394.56
+  text: 'So, it would look something, something
+
+    like'
+- end_time: 400.83
+  keyframe_path: null
+  start_time: 397.563
+  text: that, and keep on going in that direction.
+- end_time: 402.32
+  keyframe_path: null
+  start_time: 400.83
+  text: Keep on going in that direction.
+- end_time: 405.0
+  keyframe_path: null
+  start_time: 402.32
+  text: 'But, I think you see the symmetry around
+
+    the vertex.'
+- end_time: 406.26
+  keyframe_path: null
+  start_time: 405.0
+  text: That if you were to.
+- end_time: 407.87
+  keyframe_path: null
+  start_time: 406.26
+  text: 'If you were to put a line right over here,
+
+    the'
+- end_time: 410.19
+  keyframe_path: null
+  start_time: 407.87
+  text: 'two sides are kind of the mirror images of
+
+    each other.'
+- end_time: 413.143
+  keyframe_path: null
+  start_time: 410.19
+  text: 'There, you can flip them over, and that''s
+
+    how we know it''s the vertex.'
+- end_time: 416.839
+  keyframe_path: null
+  start_time: 413.143
+  text: 'And, that''s how we also know, because this
+
+    is an upward opening parabola, I'
+- end_time: 421.008
+  keyframe_path: null
+  start_time: 416.839
+  text: 'mean, there is formulas for vertex, and
+
+    there are multiple ways of calculating it.'
+- end_time: 423.483
+  keyframe_path: null
+  start_time: 421.008
+  text: 'But, since it''s an upward opening
+
+    parabola, where'
+- end_time: 425.652
+  keyframe_path: null
+  start_time: 423.483
+  text: 'the vertex is going to be, the minimum
+
+    point.'
+- end_time: 428.96
+  keyframe_path: null
+  start_time: 425.652
+  text: 'This is the minimum value that the
+
+    parabola will take on.'
+- end_time: 432.21
+  keyframe_path: null
+  start_time: 428.96
+  text: 'So, going back to the original question,
+
+    this is all for trying to figure out'
+- end_time: 436.15
+  keyframe_path: null
+  start_time: 432.21
+  text: 'the range, the set of y values, the set of
+
+    outputs that this function can generate.'
+- end_time: 439.91999999999996
+  keyframe_path: null
+  start_time: 436.15
+  text: 'You see that the function, it can get as
+
+    low as negative 5.'
+- end_time: 442.56
+  keyframe_path: null
+  start_time: 439.92
+  text: 'It got all the way down to negative 5
+
+    right at the vertex.'
+- end_time: 445.699
+  keyframe_path: null
+  start_time: 442.56
+  text: 'But, as you go to the right, as x values
+
+    increase to'
+- end_time: 450.16
+  keyframe_path: null
+  start_time: 445.699
+  text: 'the right or decrease to the left, then
+
+    the parabola goes upwards.'
+- end_time: 452.44
+  keyframe_path: null
+  start_time: 450.16
+  text: 'So, the parabola can never give you
+
+    values--'
+- end_time: 456.04
+  keyframe_path: null
+  start_time: 452.44
+  text: 'f of x is never going to be less than
+
+    negative 5.'
+- end_time: 457.92
+  keyframe_path: null
+  start_time: 456.04
+  text: 'So, our domain,
+
+    but it can take on all the vaues.'
+- end_time: 459.81
+  keyframe_path: null
+  start_time: 457.92
+  text: 'It can keep on increasing forever as x
+
+    gets'
+- end_time: 462.75
+  keyframe_path: null
+  start_time: 459.81
+  text: 'larger, x gets smaller farther away from
+
+    the vertex.'
+- end_time: 466.432
+  keyframe_path: null
+  start_time: 462.75
+  text: 'So, our range, so we already said our
+
+    domain is all real numbers.'
+- end_time: 472.463
+  keyframe_path: null
+  start_time: 466.432
+  text: 'Our range, the possible y values
+
+    is all real'
+- end_time: 478.86600000000004
+  keyframe_path: null
+  start_time: 472.463
+  text: 'numbers greater than or equal to negative
+
+    5.'
+- end_time: 480.234
+  keyframe_path: null
+  start_time: 478.866
+  text: It can take on the value of any
+- end_time: 482.64599999999996
+  keyframe_path: null
+  start_time: 480.234
+  text: 'real number greater than or equal to
+
+    negative 5.'
+- end_time: 485.007
+  keyframe_path: null
+  start_time: 482.646
+  text: Nothing less than negative 5.

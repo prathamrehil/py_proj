@@ -1,0 +1,23 @@
+Consider three planes intersecting at a point O 
+such that these three planes are mutually 
+perpendicular to each other (Fig 11.1).
+
+Given a point  P in space,  we drop  a 
+perpendicular PM on the XY-plane with M as the 
+Fig 11.2 
+foot of this perpendicular (Fig 11.2).
+
+Alternatively, through the point P in the 
+space, we draw three planes parallel to the 
+coordinate planes, meeting the x-axis, y-axis 
+and z-axis in the points A, B and C, respectively 
+(Fig 11.3).
+
+Let P(x1, y1, z1) and Q ( x2, y2, z2) 
+be two points referred to a system of 
+rectangular axes OX, OY and OZ. 
+Through the points P and Q draw planes 
+parallel to the coordinate planes so as to 
+form a rectangular parallelopiped with one 
+diagonal PQ (Fig 11.4).
+

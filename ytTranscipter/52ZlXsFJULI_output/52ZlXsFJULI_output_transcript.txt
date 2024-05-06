@@ -1,0 +1,293 @@
+0:00:01.610000 - Welcome to the presentation
+on adding and
+0:00:03.710000 - subtracting fractions.
+0:00:05.300000 - Let's get started.
+0:00:08.450000 - Let's start with what I hope
+shouldn't confuse you too much.
+0:00:12.120000 - This should hopefully be a
+relatively easy question.
+0:00:15.130000 - If I were to ask you
+what 1/4 plus 1/4 is.
+0:00:23.940000 - Let's think about
+what that means.
+0:00:25.270000 - Let's say we had a pie and it
+was divided into four pieces.
+0:00:32.420000 - So this is like saying this
+first 1/4 right here -- let me
+0:00:35.180000 - do it in a different color.
+0:00:37.730000 - This 1/4 right here,
+let's say it's this
+0:00:39.530000 - 1/4 of the pie, right?
+0:00:42.400000 - And we're going to add it
+to another 1/4 of the pie.
+0:00:45.570000 - Let's make it this one -- let
+me change the color -- pink.
+0:00:51.610000 - This 1/4, this pink 1/4
+is this 1/4 of the pie.
+0:00:57.070000 - So if I were to eat both 1/4s
+or 1/4 and then I eat another
+0:01:02.270000 - 1/4, how much have I eaten?
+0:01:04.570000 - Well, you could look from just
+the picture, I have now eaten 2
+0:01:08.260000 - out of the 4 pieces of the pie.
+0:01:10.280000 - So if I eat 1/4 of a piece of
+pie or 1/4 of a pie, and then I
+0:01:15.480000 - eat another 1/4 of a pie, I
+will have eaten 2/4 of the pie.
+0:01:21.550000 - And we know from the equivalent
+fractions module that this is
+0:01:23.940000 - the same thing as I've
+eaten 1/2 of the pie,
+0:01:27.490000 - which makes sense.
+0:01:28.330000 - If I eat 2 out of 4 pieces of a
+pie, then I've eaten 1/2 of it.
+0:01:32.150000 - And if we look at it
+mathematically, what
+0:01:33.700000 - happened here?
+0:01:34.960000 - Well the denominators or the
+bottom numbers, the bottom
+0:01:39.230000 - numbers in the fraction
+stayed the same.
+0:01:41.270000 - Because that's just the
+total number of pieces
+0:01:42.730000 - I have in this example.
+0:01:44.360000 - Well, I added the numerators,
+which makes sense.
+0:01:47.930000 - I had 1 out of the 4 pieces of
+pie, then I ate another 1 out
+0:01:51.490000 - of the 4 pieces of pie, so I
+ate 2 out of the 4 pieces
+0:01:54.600000 - of pie, which is 1/2.
+0:01:56.510000 - Let me do a couple
+more examples.
+0:02:01.820000 - What is 2/5 plus 1/5?
+0:02:09.240000 - Well we do the same thing here.
+0:02:11.760000 - We first check to make sure the
+denominators are the same --
+0:02:14.230000 - we'll learn in a second what we
+do when the denominators
+0:02:16.130000 - are different.
+0:02:16.900000 - If the denominators are the
+same, the denominator of the
+0:02:19.340000 - answer will be the same.
+0:02:21.030000 - And we just add the numerators.
+0:02:22.480000 - 2/5 plus 1/5 is just 2
+plus 1 over 5, which
+0:02:27.580000 - is equal to 3 over 5.
+0:02:31.100000 - And it works the same
+way with subtraction.
+0:02:33.390000 - If I had 3 over 7 minus 2 over
+7, that just equals 1 over 7.
+0:02:42.430000 - I just subtracted the 3, I
+subtracted the 2 from the 3
+0:02:45.480000 - to get 1 and I kept the
+denominator the same.
+0:02:48.150000 - Which makes sense.
+0:02:48.860000 - If I have 3 out of the 7 pieces
+of a pie and I were to give
+0:02:53.040000 - away 2 out of the 7 pieces of a
+pie, I'd be left with 1 of
+0:02:57.800000 - the 7 pieces of a pie.
+0:03:00.180000 - So now let's tackle -- I
+think it should be pretty
+0:03:02.370000 - straightforward when we
+have the same denominator.
+0:03:04.330000 - Remember, the denominator
+is just the bottom
+0:03:05.870000 - number in a fraction.
+0:03:06.880000 - Numerator is the top number.
+0:03:08.410000 - What happens when we have
+different denominators?
+0:03:11.430000 - Well, hopefully it won't
+be too difficult.
+0:03:15.100000 - Let's say I have 1/4 plus 1/2.
+0:03:24.330000 - Let's go back to that
+original pie example.
+0:03:27.190000 - Let me draw that pie.
+0:03:33.900000 - So this first 1/4 right here,
+let's just color it in,
+0:03:37.250000 - that's this 1/4 of the pie.
+0:03:40.470000 - And now I'm going to eat
+another 1/2 of the pie.
+0:03:44.550000 - So I'm going to eat
+1/2 of the pie.
+0:03:46.460000 - So this 1/2.
+0:03:49.100000 - I'll eat this whole
+1/2 of the pie.
+0:03:54.290000 - So what does that equal?
+0:03:55.230000 - Well, there's a couple of ways
+we could think about it.
+0:03:57.190000 - First we could just
+re-write 1/2.
+0:03:59.210000 - 1/2 of the pie, that's actually
+the same thing as 2/4, right?
+0:04:06.950000 - There's 1/4 here and
+then another 1/4 here.
+0:04:12.290000 - So 1/2 is the same thing as
+2/4, and we know that from the
+0:04:15.470000 - equivalent fractions module.
+0:04:17.520000 - So we know that 1/4 plus 1/2,
+this is the same thing as
+0:04:21.460000 - saying 1/4 plus 2/4, right?
+0:04:27.110000 - And all I did here is I changed
+the 1/2 to a 2/4 by essentially
+0:04:36.160000 - multiplying the numerator
+and the denominator of
+0:04:38.820000 - this fraction by 2.
+0:04:40.410000 - And you can do that
+to any fraction.
+0:04:41.740000 - As long as you multiply the
+numerator and the denominator
+0:04:43.890000 - by the same number, you
+can multiply by anything.
+0:04:47.620000 - That makes sense because
+1/2 times 1 is equal
+0:04:52.880000 - to 1/2, you know that.
+0:04:54.440000 - Well another way of writing
+1 is 1/2 times 2/2.
+0:05:00.080000 - 2 over 2 is the same thing as
+1, and that equals 2 over 4.
+0:05:04.490000 - The reason why I picked 2
+is because I wanted to get
+0:05:07.380000 - the same denominator here.
+0:05:11.230000 - I hope I'm not completely
+confusing you.
+0:05:13.530000 - Well, let's just finish
+up this problem.
+0:05:15.220000 - So we have 1/4 plus 2/4, so we
+know that we just add the
+0:05:19.220000 - numerators, 3, and the
+denominators are the same, 3/4.
+0:05:22.570000 - And if we look at the picture,
+true enough, we have
+0:05:25.190000 - eaten 3/4 of this pie.
+0:05:29.380000 - Let's do another one.
+0:05:34.030000 - Let's do 1/2 plus 1/3.
+0:05:44.730000 - Well once again, we want to get
+both denominators to be the
+0:05:47.570000 - same, but you can't just
+multiply one of them to get --
+0:05:51.370000 - there's nothing I can multiply
+3 by to get 2, or there's no,
+0:05:53.850000 - at least, integer I can
+multiply 3 by to get 2.
+0:05:56.510000 - And there's nothing I can
+multiply 2 by to get 3.
+0:05:58.900000 - So I have to multiply both of
+them so they equal each other.
+0:06:01.870000 - It turns out that what we want
+for, what we'll call the common
+0:06:06.230000 - denominator, it turns out
+to be the least common
+0:06:08.850000 - multiple of 2 and 3.
+0:06:11.130000 - Well what's the least common
+multiple of 2 and 3?
+0:06:13.400000 - Well that's the smallest
+number that's a multiple
+0:06:16.750000 - of both 2 and 3.
+0:06:17.860000 - Well the smallest number
+that's a multiple of
+0:06:19.390000 - both 2 and 3 is 6.
+0:06:23.480000 - So let's convert both of these
+fractions to something over 6.
+0:06:27.890000 - So 1/2 is equal to what over 6.
+0:06:30.340000 - You should know this from the
+equivalent fractions module.
+0:06:33.320000 - Well if I eat 1/2 of a pizza
+with 6 pieces, I would have
+0:06:37.500000 - eaten 3 pieces, right?
+0:06:40.270000 - That make sense.
+0:06:40.820000 - 1 is 1/2 of 2, 3 is 1/2 of 6.
+0:06:43.950000 - Similarly, if I eat 1/3 of a
+pizza with 6 pieces, it's
+0:06:47.650000 - the same thing as 2 over 6.
+0:06:50.730000 - So 1/2 plus 1/3 is the same
+thing as 3/6 plus 2/6.
+0:06:57.700000 - Notice I didn't do
+anything crazy.
+0:06:58.980000 - All I did is I re-wrote both
+of these fractions with
+0:07:02.030000 - different denominators.
+0:07:03.220000 - I essentially changed the
+number of pieces in the
+0:07:06.050000 - pie, if that helps at all.
+0:07:08.830000 - Now that we're at this
+point then the problem
+0:07:10.410000 - becomes very easy.
+0:07:11.190000 - We just add the numerators,
+3 plus 2 is 5, and we keep
+0:07:14.830000 - the denominators the same.
+0:07:16.430000 - 3 over 6 plus 2
+over 6 equals 5/6.
+0:07:22.240000 - And subtraction is
+the same thing.
+0:07:24.740000 - 1/2 minus 1/3, well that's
+the same thing as 3
+0:07:31.460000 - over 6 minus 2 over 6.
+0:07:35.110000 - Well that equals 1 over 6.
+0:07:39.530000 - Let's do a bunch more problems
+and hopefully you'll
+0:07:43.060000 - start to get it.
+0:07:43.990000 - And always remember you can
+re-watch the presentation, or
+0:07:47.120000 - you can pause it and try to do
+the problems yourself, because
+0:07:49.630000 - I think sometimes I talk fast.
+0:07:53.250000 - Let me throw you a curve ball.
+0:07:55.100000 - What's 1/10 minus 1?
+0:07:59.330000 - Well, one doesn't even
+look like a fraction.
+0:08:01.630000 - But you can write
+it as a fraction.
+0:08:04.150000 - Well that's the same thing as
+1/10 minus -- how could we
+0:08:07.970000 - write 1 so it has the
+denominator of 10?
+0:08:11.020000 - Right.
+0:08:11.590000 - It's the same thing as
+10 over 10, right?
+0:08:14.830000 - 10 over 10 is 1.
+0:08:16.330000 - So 1/10 minus 10 over 10 is the
+same thing as 1 minus 10 --
+0:08:20.900000 - remember, we only subtract the
+numerators and we keep the
+0:08:24.950000 - denominator 10, and that
+equals negative 9 over 10.
+0:08:31.170000 - 1/10 minus 1 is equal
+to negative 9 over 10.
+0:08:34.380000 - Let's do another one.
+0:08:35.920000 - Let's do one more.
+0:08:36.470000 - I think that's all
+I have time for.
+0:08:38.680000 - Let's do minus 1/9
+minus 1 over 4.
+0:08:47.320000 - Well the least common
+multiple of 0 and 4 is 36.
+0:08:53.770000 - So that's equal to 36.
+0:08:55.590000 - So what's negative 1/9 where
+we change the denominator
+0:09:00.070000 - from 9 to 36?
+0:09:02.010000 - Well, we multiply 9
+times 4 to get 36.
+0:09:05.030000 - We have to multiply the
+numerator times 4 as well.
+0:09:07.230000 - So we have negative 1, so
+it becomes negative 4.
+0:09:11.860000 - Then minus over 36.
+0:09:16.860000 - Well to go from 4 to 36, we
+have to multiply this fraction
+0:09:20.110000 - by 9, or we have to multiply
+the denominator by 9, so you
+0:09:23.070000 - also have to multiply
+the numerator by 9.
+0:09:25.190000 - 1 times 9 is 9.
+0:09:28.370000 - So this equals minus 4 minus
+9 over 36, which equals
+0:09:35.770000 - minus 13 over 36.
+0:09:39.580000 - I think that's all I have time
+for right now, and I'll
+0:09:41.850000 - probably add a couple more
+modules, but I think you might
+0:09:44 - be ready now to do the adding
+and subtracting module.
+0:09:47.520000 - Have fun.

@@ -1,0 +1,17 @@
+[
+  {
+    "question_id": "5d817e09-afce-11ee-9384-e2807b4aead7",
+    "html": "<div style=\"text-align:justify\">If <img alt=\"f\\left( x \\right) = \\int {\\left( {\\cot \\left( {\\frac{x}{2}} \\right) - \\tan \\left( {\\frac{x}{2}} \\right)} \\right)dx} \" src=\"https://s3-ap-south-1.amazonaws.com/question-bank-allen/content_data/content_images/15133147781597233574.png\"/>, where <img alt=\"f\\left( {\\frac{\\pi }{2}} \\right) = 0\" src=\"https://s3-ap-south-1.amazonaws.com/question-bank-allen/content_data/content_images/15133147861226085430.png\"/>, then the value of <img alt=\"\\operatorname{sgn} \\left( {f\\left( {\\frac{{2\\pi }}{3}} \\right)} \\right)\" src=\"https://s3-ap-south-1.amazonaws.com/question-bank-allen/content_data/content_images/15133147931433003186.png\"/>\u00a0is<br/>\r\n(where sgn(.) denotes signum function)</div>\r\n\r\n\r\n<br>\r\n\r\n<div>0</div>\r\n\r\n<div style=\"background-color:powderblue;\">\u20131</div>\r\n\r\n<div>1</div>\r\n\r\n<div><div style=\"text-align:justify\">Not defined</div>\r\n</div>",
+    "text": "If $f\\left( x \\right) = \\int {\\left( {\\cot \\left( {\\frac{x}{2}} \\right) - \\tan \\left( {\\frac{x}{2}} \\right)} \\right)dx} $, where $f\\left( {\\frac{\\pi }{2}} \\right) = 0$, then the value of $\\operatorname{sgn} \\left( {f\\left( {\\frac{{2\\pi }}{3}} \\right)} \\right)$\u00a0is\r\n(where sgn(.) denotes signum function)\r\n\r\n0\r\n\u20131\r\n1\r\nNot defined\r\n"
+  },
+  {
+    "question_id": "5dc21acb-afce-11ee-9384-e2807b4aead7",
+    "html": "<div style=\"text-align:justify\">Number of solution(s) of the equation\u00a0<img alt=\"{\\sin ^2}x + \\frac{{{{\\sin }^2}3x}}{4} = \\sin x{\\sin ^2}3x\" src=\"https://s3-ap-south-1.amazonaws.com/question-bank-allen/content_data/content_images/15179932451485513334.png\" style=\"height:35px; width:184.986px\"/> in [0,2\u03c0] is -</div>\r\n\r\n\r\n<br>\r\n\r\n<div>0</div>\r\n\r\n<div>3</div>\r\n\r\n<div style=\"background-color:powderblue;\">5</div>\r\n\r\n<div>7</div>",
+    "text": "Number of solution(s) of the equation\u00a0${\\sin ^2}x + \\frac{{{{\\sin }^2}3x}}{4} = \\sin x{\\sin ^2}3x$ in [0,2\u03c0] is -\r\n\r\n0\r\n3\r\n5\r\n7"
+  },
+  {
+    "question_id": "5df96f9c-afce-11ee-9384-e2807b4aead7",
+    "html": "<div style=\"text-align:justify\">The number of solutions of the equation<br/>\r\n3 cos<sup>2</sup>x = 8 sinx in [0, \u03c0] is -</div>\r\n\r\n\r\n<br>\r\n\r\n<div>1</div>\r\n\r\n<div style=\"background-color:powderblue;\">2</div>\r\n\r\n<div>3</div>\r\n\r\n<div>4</div>",
+    "text": "The number of solutions of the equation\r\n3 cos2x = 8 sinx in [0, \u03c0] is -\r\n\r\n1\r\n2\r\n3\r\n4"
+  }
+]

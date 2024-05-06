@@ -1,0 +1,940 @@
+- end_time: 3.71
+  keyframe_path: null
+  start_time: 1.61
+  text: 'Welcome to the presentation
+
+    on adding and'
+- end_time: 5.3
+  keyframe_path: null
+  start_time: 3.71
+  text: subtracting fractions.
+- end_time: 8.45
+  keyframe_path: null
+  start_time: 5.3
+  text: Let's get started.
+- end_time: 12.12
+  keyframe_path: null
+  start_time: 8.45
+  text: 'Let''s start with what I hope
+
+    shouldn''t confuse you too much.'
+- end_time: 15.129999999999999
+  keyframe_path: null
+  start_time: 12.12
+  text: 'This should hopefully be a
+
+    relatively easy question.'
+- end_time: 23.94
+  keyframe_path: null
+  start_time: 15.13
+  text: 'If I were to ask you
+
+    what 1/4 plus 1/4 is.'
+- end_time: 25.270000000000003
+  keyframe_path: null
+  start_time: 23.94
+  text: 'Let''s think about
+
+    what that means.'
+- end_time: 32.42
+  keyframe_path: null
+  start_time: 25.27
+  text: 'Let''s say we had a pie and it
+
+    was divided into four pieces.'
+- end_time: 35.18
+  keyframe_path: null
+  start_time: 32.42
+  text: 'So this is like saying this
+
+    first 1/4 right here -- let me'
+- end_time: 37.73
+  keyframe_path: null
+  start_time: 35.18
+  text: do it in a different color.
+- end_time: 39.529999999999994
+  keyframe_path: null
+  start_time: 37.73
+  text: 'This 1/4 right here,
+
+    let''s say it''s this'
+- end_time: 42.4
+  keyframe_path: null
+  start_time: 39.53
+  text: 1/4 of the pie, right?
+- end_time: 45.57
+  keyframe_path: null
+  start_time: 42.4
+  text: 'And we''re going to add it
+
+    to another 1/4 of the pie.'
+- end_time: 51.61
+  keyframe_path: null
+  start_time: 45.57
+  text: 'Let''s make it this one -- let
+
+    me change the color -- pink.'
+- end_time: 57.07
+  keyframe_path: null
+  start_time: 51.61
+  text: 'This 1/4, this pink 1/4
+
+    is this 1/4 of the pie.'
+- end_time: 62.27
+  keyframe_path: null
+  start_time: 57.07
+  text: 'So if I were to eat both 1/4s
+
+    or 1/4 and then I eat another'
+- end_time: 64.57000000000001
+  keyframe_path: null
+  start_time: 62.27
+  text: 1/4, how much have I eaten?
+- end_time: 68.25999999999999
+  keyframe_path: null
+  start_time: 64.57
+  text: 'Well, you could look from just
+
+    the picture, I have now eaten 2'
+- end_time: 70.28
+  keyframe_path: null
+  start_time: 68.26
+  text: out of the 4 pieces of the pie.
+- end_time: 75.48
+  keyframe_path: null
+  start_time: 70.28
+  text: 'So if I eat 1/4 of a piece of
+
+    pie or 1/4 of a pie, and then I'
+- end_time: 81.55000000000001
+  keyframe_path: null
+  start_time: 75.48
+  text: 'eat another 1/4 of a pie, I
+
+    will have eaten 2/4 of the pie.'
+- end_time: 83.94
+  keyframe_path: null
+  start_time: 81.55
+  text: 'And we know from the equivalent
+
+    fractions module that this is'
+- end_time: 87.49
+  keyframe_path: null
+  start_time: 83.94
+  text: 'the same thing as I''ve
+
+    eaten 1/2 of the pie,'
+- end_time: 88.33
+  keyframe_path: null
+  start_time: 87.49
+  text: which makes sense.
+- end_time: 92.14999999999999
+  keyframe_path: null
+  start_time: 88.33
+  text: 'If I eat 2 out of 4 pieces of a
+
+    pie, then I''ve eaten 1/2 of it.'
+- end_time: 93.7
+  keyframe_path: null
+  start_time: 92.15
+  text: 'And if we look at it
+
+    mathematically, what'
+- end_time: 94.96000000000001
+  keyframe_path: null
+  start_time: 93.7
+  text: happened here?
+- end_time: 99.22999999999999
+  keyframe_path: null
+  start_time: 94.96
+  text: 'Well the denominators or the
+
+    bottom numbers, the bottom'
+- end_time: 101.27000000000001
+  keyframe_path: null
+  start_time: 99.23
+  text: 'numbers in the fraction
+
+    stayed the same.'
+- end_time: 102.72999999999999
+  keyframe_path: null
+  start_time: 101.27
+  text: 'Because that''s just the
+
+    total number of pieces'
+- end_time: 104.36
+  keyframe_path: null
+  start_time: 102.73
+  text: I have in this example.
+- end_time: 107.92999999999999
+  keyframe_path: null
+  start_time: 104.36
+  text: 'Well, I added the numerators,
+
+    which makes sense.'
+- end_time: 111.49000000000001
+  keyframe_path: null
+  start_time: 107.93
+  text: 'I had 1 out of the 4 pieces of
+
+    pie, then I ate another 1 out'
+- end_time: 114.6
+  keyframe_path: null
+  start_time: 111.49
+  text: 'of the 4 pieces of pie, so I
+
+    ate 2 out of the 4 pieces'
+- end_time: 116.50999999999999
+  keyframe_path: null
+  start_time: 114.6
+  text: of pie, which is 1/2.
+- end_time: 117.84
+  keyframe_path: null
+  start_time: 116.51
+  text: 'Let me do a couple
+
+    more examples.'
+- end_time: 129.23999999999998
+  keyframe_path: null
+  start_time: 121.82
+  text: What is 2/5 plus 1/5?
+- end_time: 131.76000000000002
+  keyframe_path: null
+  start_time: 129.24
+  text: Well we do the same thing here.
+- end_time: 134.23
+  keyframe_path: null
+  start_time: 131.76
+  text: 'We first check to make sure the
+
+    denominators are the same --'
+- end_time: 136.13
+  keyframe_path: null
+  start_time: 134.23
+  text: 'we''ll learn in a second what we
+
+    do when the denominators'
+- end_time: 136.9
+  keyframe_path: null
+  start_time: 136.13
+  text: are different.
+- end_time: 139.34
+  keyframe_path: null
+  start_time: 136.9
+  text: 'If the denominators are the
+
+    same, the denominator of the'
+- end_time: 141.03
+  keyframe_path: null
+  start_time: 139.34
+  text: answer will be the same.
+- end_time: 142.48
+  keyframe_path: null
+  start_time: 141.03
+  text: And we just add the numerators.
+- end_time: 147.57999999999998
+  keyframe_path: null
+  start_time: 142.48
+  text: '2/5 plus 1/5 is just 2
+
+    plus 1 over 5, which'
+- end_time: 151.10000000000002
+  keyframe_path: null
+  start_time: 147.58
+  text: is equal to 3 over 5.
+- end_time: 153.39
+  keyframe_path: null
+  start_time: 151.1
+  text: 'And it works the same
+
+    way with subtraction.'
+- end_time: 162.42999999999998
+  keyframe_path: null
+  start_time: 153.39
+  text: 'If I had 3 over 7 minus 2 over
+
+    7, that just equals 1 over 7.'
+- end_time: 165.48000000000002
+  keyframe_path: null
+  start_time: 162.43
+  text: 'I just subtracted the 3, I
+
+    subtracted the 2 from the 3'
+- end_time: 168.14999999999998
+  keyframe_path: null
+  start_time: 165.48
+  text: 'to get 1 and I kept the
+
+    denominator the same.'
+- end_time: 168.86
+  keyframe_path: null
+  start_time: 168.15
+  text: Which makes sense.
+- end_time: 173.04000000000002
+  keyframe_path: null
+  start_time: 168.86
+  text: 'If I have 3 out of the 7 pieces
+
+    of a pie and I were to give'
+- end_time: 177.79999999999998
+  keyframe_path: null
+  start_time: 173.04
+  text: 'away 2 out of the 7 pieces of a
+
+    pie, I''d be left with 1 of'
+- end_time: 180.18
+  keyframe_path: null
+  start_time: 177.8
+  text: the 7 pieces of a pie.
+- end_time: 182.37
+  keyframe_path: null
+  start_time: 180.18
+  text: 'So now let''s tackle -- I
+
+    think it should be pretty'
+- end_time: 184.33
+  keyframe_path: null
+  start_time: 182.37
+  text: 'straightforward when we
+
+    have the same denominator.'
+- end_time: 185.87
+  keyframe_path: null
+  start_time: 184.33
+  text: 'Remember, the denominator
+
+    is just the bottom'
+- end_time: 186.88
+  keyframe_path: null
+  start_time: 185.87
+  text: number in a fraction.
+- end_time: 188.41
+  keyframe_path: null
+  start_time: 186.88
+  text: Numerator is the top number.
+- end_time: 191.43
+  keyframe_path: null
+  start_time: 188.41
+  text: 'What happens when we have
+
+    different denominators?'
+- end_time: 195.1
+  keyframe_path: null
+  start_time: 191.43
+  text: 'Well, hopefully it won''t
+
+    be too difficult.'
+- end_time: 204.32999999999998
+  keyframe_path: null
+  start_time: 195.1
+  text: Let's say I have 1/4 plus 1/2.
+- end_time: 207.19000000000003
+  keyframe_path: null
+  start_time: 204.33
+  text: 'Let''s go back to that
+
+    original pie example.'
+- end_time: 208.26
+  keyframe_path: null
+  start_time: 207.19
+  text: Let me draw that pie.
+- end_time: 217.25
+  keyframe_path: null
+  start_time: 213.9
+  text: 'So this first 1/4 right here,
+
+    let''s just color it in,'
+- end_time: 220.47
+  keyframe_path: null
+  start_time: 217.25
+  text: that's this 1/4 of the pie.
+- end_time: 224.55
+  keyframe_path: null
+  start_time: 220.47
+  text: 'And now I''m going to eat
+
+    another 1/2 of the pie.'
+- end_time: 226.46
+  keyframe_path: null
+  start_time: 224.55
+  text: 'So I''m going to eat
+
+    1/2 of the pie.'
+- end_time: 229.1
+  keyframe_path: null
+  start_time: 226.46
+  text: So this 1/2.
+- end_time: 231.4
+  keyframe_path: null
+  start_time: 229.1
+  text: 'I''ll eat this whole
+
+    1/2 of the pie.'
+- end_time: 235.23
+  keyframe_path: null
+  start_time: 234.29
+  text: So what does that equal?
+- end_time: 237.19
+  keyframe_path: null
+  start_time: 235.23
+  text: 'Well, there''s a couple of ways
+
+    we could think about it.'
+- end_time: 239.21
+  keyframe_path: null
+  start_time: 237.19
+  text: 'First we could just
+
+    re-write 1/2.'
+- end_time: 244.13500000000002
+  keyframe_path: null
+  start_time: 239.21
+  text: '1/2 of the pie, that''s actually
+
+    the same thing as 2/4, right?'
+- end_time: 252.29
+  keyframe_path: null
+  start_time: 246.95
+  text: 'There''s 1/4 here and
+
+    then another 1/4 here.'
+- end_time: 255.47
+  keyframe_path: null
+  start_time: 252.29
+  text: 'So 1/2 is the same thing as
+
+    2/4, and we know that from the'
+- end_time: 257.52
+  keyframe_path: null
+  start_time: 255.47
+  text: equivalent fractions module.
+- end_time: 261.46
+  keyframe_path: null
+  start_time: 257.52
+  text: 'So we know that 1/4 plus 1/2,
+
+    this is the same thing as'
+- end_time: 267.10999999999996
+  keyframe_path: null
+  start_time: 261.46
+  text: saying 1/4 plus 2/4, right?
+- end_time: 276.16
+  keyframe_path: null
+  start_time: 267.11
+  text: 'And all I did here is I changed
+
+    the 1/2 to a 2/4 by essentially'
+- end_time: 278.82000000000005
+  keyframe_path: null
+  start_time: 276.16
+  text: 'multiplying the numerator
+
+    and the denominator of'
+- end_time: 280.40999999999997
+  keyframe_path: null
+  start_time: 278.82
+  text: this fraction by 2.
+- end_time: 281.74
+  keyframe_path: null
+  start_time: 280.41
+  text: 'And you can do that
+
+    to any fraction.'
+- end_time: 283.89
+  keyframe_path: null
+  start_time: 281.74
+  text: 'As long as you multiply the
+
+    numerator and the denominator'
+- end_time: 287.62
+  keyframe_path: null
+  start_time: 283.89
+  text: 'by the same number, you
+
+    can multiply by anything.'
+- end_time: 292.88
+  keyframe_path: null
+  start_time: 287.62
+  text: 'That makes sense because
+
+    1/2 times 1 is equal'
+- end_time: 294.44
+  keyframe_path: null
+  start_time: 292.88
+  text: to 1/2, you know that.
+- end_time: 300.08
+  keyframe_path: null
+  start_time: 294.44
+  text: 'Well another way of writing
+
+    1 is 1/2 times 2/2.'
+- end_time: 304.49
+  keyframe_path: null
+  start_time: 300.08
+  text: '2 over 2 is the same thing as
+
+    1, and that equals 2 over 4.'
+- end_time: 307.38
+  keyframe_path: null
+  start_time: 304.49
+  text: 'The reason why I picked 2
+
+    is because I wanted to get'
+- end_time: 308.58
+  keyframe_path: null
+  start_time: 307.38
+  text: the same denominator here.
+- end_time: 313.53000000000003
+  keyframe_path: null
+  start_time: 311.23
+  text: 'I hope I''m not completely
+
+    confusing you.'
+- end_time: 315.21999999999997
+  keyframe_path: null
+  start_time: 313.53
+  text: 'Well, let''s just finish
+
+    up this problem.'
+- end_time: 319.22
+  keyframe_path: null
+  start_time: 315.22
+  text: 'So we have 1/4 plus 2/4, so we
+
+    know that we just add the'
+- end_time: 322.57000000000005
+  keyframe_path: null
+  start_time: 319.22
+  text: 'numerators, 3, and the
+
+    denominators are the same, 3/4.'
+- end_time: 325.19
+  keyframe_path: null
+  start_time: 322.57
+  text: 'And if we look at the picture,
+
+    true enough, we have'
+- end_time: 329.38
+  keyframe_path: null
+  start_time: 325.19
+  text: eaten 3/4 of this pie.
+- end_time: 330.32
+  keyframe_path: null
+  start_time: 329.38
+  text: Let's do another one.
+- end_time: 344.72999999999996
+  keyframe_path: null
+  start_time: 334.03
+  text: Let's do 1/2 plus 1/3.
+- end_time: 347.57
+  keyframe_path: null
+  start_time: 344.73
+  text: 'Well once again, we want to get
+
+    both denominators to be the'
+- end_time: 351.37
+  keyframe_path: null
+  start_time: 347.57
+  text: 'same, but you can''t just
+
+    multiply one of them to get --'
+- end_time: 353.85
+  keyframe_path: null
+  start_time: 351.37
+  text: 'there''s nothing I can multiply
+
+    3 by to get 2, or there''s no,'
+- end_time: 356.51000000000005
+  keyframe_path: null
+  start_time: 353.85
+  text: 'at least, integer I can
+
+    multiply 3 by to get 2.'
+- end_time: 358.9
+  keyframe_path: null
+  start_time: 356.51
+  text: 'And there''s nothing I can
+
+    multiply 2 by to get 3.'
+- end_time: 361.87
+  keyframe_path: null
+  start_time: 358.9
+  text: 'So I have to multiply both of
+
+    them so they equal each other.'
+- end_time: 366.23
+  keyframe_path: null
+  start_time: 361.87
+  text: 'It turns out that what we want
+
+    for, what we''ll call the common'
+- end_time: 368.85
+  keyframe_path: null
+  start_time: 366.23
+  text: 'denominator, it turns out
+
+    to be the least common'
+- end_time: 371.13
+  keyframe_path: null
+  start_time: 368.85
+  text: multiple of 2 and 3.
+- end_time: 373.4
+  keyframe_path: null
+  start_time: 371.13
+  text: 'Well what''s the least common
+
+    multiple of 2 and 3?'
+- end_time: 376.75
+  keyframe_path: null
+  start_time: 373.4
+  text: 'Well that''s the smallest
+
+    number that''s a multiple'
+- end_time: 377.86
+  keyframe_path: null
+  start_time: 376.75
+  text: of both 2 and 3.
+- end_time: 379.39
+  keyframe_path: null
+  start_time: 377.86
+  text: 'Well the smallest number
+
+    that''s a multiple of'
+- end_time: 383.47999999999996
+  keyframe_path: null
+  start_time: 379.39
+  text: both 2 and 3 is 6.
+- end_time: 387.89000000000004
+  keyframe_path: null
+  start_time: 383.48
+  text: 'So let''s convert both of these
+
+    fractions to something over 6.'
+- end_time: 390.34
+  keyframe_path: null
+  start_time: 387.89
+  text: So 1/2 is equal to what over 6.
+- end_time: 393.32
+  keyframe_path: null
+  start_time: 390.34
+  text: 'You should know this from the
+
+    equivalent fractions module.'
+- end_time: 397.5
+  keyframe_path: null
+  start_time: 393.32
+  text: 'Well if I eat 1/2 of a pizza
+
+    with 6 pieces, I would have'
+- end_time: 400.27
+  keyframe_path: null
+  start_time: 397.5
+  text: eaten 3 pieces, right?
+- end_time: 400.82
+  keyframe_path: null
+  start_time: 400.27
+  text: That make sense.
+- end_time: 403.95
+  keyframe_path: null
+  start_time: 400.82
+  text: 1 is 1/2 of 2, 3 is 1/2 of 6.
+- end_time: 407.65
+  keyframe_path: null
+  start_time: 403.95
+  text: 'Similarly, if I eat 1/3 of a
+
+    pizza with 6 pieces, it''s'
+- end_time: 410.72999999999996
+  keyframe_path: null
+  start_time: 407.65
+  text: the same thing as 2 over 6.
+- end_time: 417.70000000000005
+  keyframe_path: null
+  start_time: 410.73
+  text: 'So 1/2 plus 1/3 is the same
+
+    thing as 3/6 plus 2/6.'
+- end_time: 418.97999999999996
+  keyframe_path: null
+  start_time: 417.7
+  text: 'Notice I didn''t do
+
+    anything crazy.'
+- end_time: 422.03000000000003
+  keyframe_path: null
+  start_time: 418.98
+  text: 'All I did is I re-wrote both
+
+    of these fractions with'
+- end_time: 423.21999999999997
+  keyframe_path: null
+  start_time: 422.03
+  text: different denominators.
+- end_time: 426.05
+  keyframe_path: null
+  start_time: 423.22
+  text: 'I essentially changed the
+
+    number of pieces in the'
+- end_time: 428.83
+  keyframe_path: null
+  start_time: 426.05
+  text: pie, if that helps at all.
+- end_time: 430.40999999999997
+  keyframe_path: null
+  start_time: 428.83
+  text: 'Now that we''re at this
+
+    point then the problem'
+- end_time: 431.19
+  keyframe_path: null
+  start_time: 430.41
+  text: becomes very easy.
+- end_time: 434.83
+  keyframe_path: null
+  start_time: 431.19
+  text: 'We just add the numerators,
+
+    3 plus 2 is 5, and we keep'
+- end_time: 436.43
+  keyframe_path: null
+  start_time: 434.83
+  text: the denominators the same.
+- end_time: 438.97
+  keyframe_path: null
+  start_time: 436.43
+  text: '3 over 6 plus 2
+
+    over 6 equals 5/6.'
+- end_time: 444.74
+  keyframe_path: null
+  start_time: 442.24
+  text: 'And subtraction is
+
+    the same thing.'
+- end_time: 451.46000000000004
+  keyframe_path: null
+  start_time: 444.74
+  text: '1/2 minus 1/3, well that''s
+
+    the same thing as 3'
+- end_time: 455.10999999999996
+  keyframe_path: null
+  start_time: 451.46
+  text: over 6 minus 2 over 6.
+- end_time: 459.53000000000003
+  keyframe_path: null
+  start_time: 455.11
+  text: Well that equals 1 over 6.
+- end_time: 463.05999999999995
+  keyframe_path: null
+  start_time: 459.53
+  text: 'Let''s do a bunch more problems
+
+    and hopefully you''ll'
+- end_time: 463.99
+  keyframe_path: null
+  start_time: 463.06
+  text: start to get it.
+- end_time: 467.12
+  keyframe_path: null
+  start_time: 463.99
+  text: 'And always remember you can
+
+    re-watch the presentation, or'
+- end_time: 469.63
+  keyframe_path: null
+  start_time: 467.12
+  text: 'you can pause it and try to do
+
+    the problems yourself, because'
+- end_time: 473.25
+  keyframe_path: null
+  start_time: 469.63
+  text: I think sometimes I talk fast.
+- end_time: 475.1
+  keyframe_path: null
+  start_time: 473.25
+  text: Let me throw you a curve ball.
+- end_time: 479.33000000000004
+  keyframe_path: null
+  start_time: 475.1
+  text: What's 1/10 minus 1?
+- end_time: 481.63
+  keyframe_path: null
+  start_time: 479.33
+  text: 'Well, one doesn''t even
+
+    look like a fraction.'
+- end_time: 484.15
+  keyframe_path: null
+  start_time: 481.63
+  text: 'But you can write
+
+    it as a fraction.'
+- end_time: 487.96999999999997
+  keyframe_path: null
+  start_time: 484.15
+  text: 'Well that''s the same thing as
+
+    1/10 minus -- how could we'
+- end_time: 491.02000000000004
+  keyframe_path: null
+  start_time: 487.97
+  text: 'write 1 so it has the
+
+    denominator of 10?'
+- end_time: 491.59
+  keyframe_path: null
+  start_time: 491.02
+  text: Right.
+- end_time: 494.83
+  keyframe_path: null
+  start_time: 491.59
+  text: 'It''s the same thing as
+
+    10 over 10, right?'
+- end_time: 496.33
+  keyframe_path: null
+  start_time: 494.83
+  text: 10 over 10 is 1.
+- end_time: 500.9
+  keyframe_path: null
+  start_time: 496.33
+  text: 'So 1/10 minus 10 over 10 is the
+
+    same thing as 1 minus 10 --'
+- end_time: 504.95
+  keyframe_path: null
+  start_time: 500.9
+  text: 'remember, we only subtract the
+
+    numerators and we keep the'
+- end_time: 511.17
+  keyframe_path: null
+  start_time: 504.95
+  text: 'denominator 10, and that
+
+    equals negative 9 over 10.'
+- end_time: 514.38
+  keyframe_path: null
+  start_time: 511.17
+  text: '1/10 minus 1 is equal
+
+    to negative 9 over 10.'
+- end_time: 515.92
+  keyframe_path: null
+  start_time: 514.38
+  text: Let's do another one.
+- end_time: 516.4699999999999
+  keyframe_path: null
+  start_time: 515.92
+  text: Let's do one more.
+- end_time: 518.6800000000001
+  keyframe_path: null
+  start_time: 516.47
+  text: 'I think that''s all
+
+    I have time for.'
+- end_time: 527.3199999999999
+  keyframe_path: null
+  start_time: 518.68
+  text: 'Let''s do minus 1/9
+
+    minus 1 over 4.'
+- end_time: 533.7700000000001
+  keyframe_path: null
+  start_time: 527.32
+  text: 'Well the least common
+
+    multiple of 0 and 4 is 36.'
+- end_time: 535.59
+  keyframe_path: null
+  start_time: 533.77
+  text: So that's equal to 36.
+- end_time: 540.07
+  keyframe_path: null
+  start_time: 535.59
+  text: 'So what''s negative 1/9 where
+
+    we change the denominator'
+- end_time: 542.0100000000001
+  keyframe_path: null
+  start_time: 540.07
+  text: from 9 to 36?
+- end_time: 545.03
+  keyframe_path: null
+  start_time: 542.01
+  text: 'Well, we multiply 9
+
+    times 4 to get 36.'
+- end_time: 547.23
+  keyframe_path: null
+  start_time: 545.03
+  text: 'We have to multiply the
+
+    numerator times 4 as well.'
+- end_time: 551.86
+  keyframe_path: null
+  start_time: 547.23
+  text: 'So we have negative 1, so
+
+    it becomes negative 4.'
+- end_time: 556.86
+  keyframe_path: null
+  start_time: 551.86
+  text: Then minus over 36.
+- end_time: 560.11
+  keyframe_path: null
+  start_time: 556.86
+  text: 'Well to go from 4 to 36, we
+
+    have to multiply this fraction'
+- end_time: 563.07
+  keyframe_path: null
+  start_time: 560.11
+  text: 'by 9, or we have to multiply
+
+    the denominator by 9, so you'
+- end_time: 565.19
+  keyframe_path: null
+  start_time: 563.07
+  text: 'also have to multiply
+
+    the numerator by 9.'
+- end_time: 568.37
+  keyframe_path: null
+  start_time: 565.19
+  text: 1 times 9 is 9.
+- end_time: 575.77
+  keyframe_path: null
+  start_time: 568.37
+  text: 'So this equals minus 4 minus
+
+    9 over 36, which equals'
+- end_time: 579.5799999999999
+  keyframe_path: null
+  start_time: 575.77
+  text: minus 13 over 36.
+- end_time: 581.85
+  keyframe_path: null
+  start_time: 579.58
+  text: 'I think that''s all I have time
+
+    for right now, and I''ll'
+- end_time: 584.0
+  keyframe_path: null
+  start_time: 581.85
+  text: 'probably add a couple more
+
+    modules, but I think you might'
+- end_time: 587.52
+  keyframe_path: null
+  start_time: 584.0
+  text: 'be ready now to do the adding
+
+    and subtracting module.'
+- end_time: 589.02
+  keyframe_path: null
+  start_time: 587.52
+  text: Have fun.

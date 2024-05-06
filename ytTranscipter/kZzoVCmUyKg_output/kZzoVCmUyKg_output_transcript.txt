@@ -1,0 +1,86 @@
+0:00:00.500000 - - [Sal] What I want to do in this video is think about the idea of a fraction.
+0:00:06.180000 - And for the sake of this video as we just learn what a fraction is, you can really think of it as a part of a whole.
+0:00:13.280000 - Later on we'll think of it in even more ways.
+0:00:16.660000 - What do I mean by a part of a whole?
+0:00:19.820000 - So let's imagine that we have a pizza.
+0:00:23.660000 - I will do it in a pizza colored. . . so I'll do it an orange
+0:00:26.900000 - I guess that's roughly the color of a pizza.
+0:00:29.120000 - Pizza I guess is yellow and kind of red for the tomato sauce so yellow for the cheese.
+0:00:32.500000 - So let's say this was a perfect circle. I'm gonna try my best to draw a circle right over here.
+0:00:36.520000 - And let's say that I divided into four equal parts
+0:00:40.640000 - so just like that I've divided it into two equal parts and now I will divide it into four equal parts.
+0:00:49.060000 - So there's a total of four slices, four equal slices of this pizza.
+0:00:55.440000 - Four equal slices of this pizza.
+0:00:58.040000 - And let's say on three of the slices I have cheese only cheese.
+0:01:03.200000 - only
+0:01:04.460000 - only cheese.
+0:01:06.320000 - And lets say on this fourth slice, I have cheese and, I don't know, I have olives
+0:01:12.380000 - I have olives right over here.
+0:01:15.380000 - So we can ask ourselves,
+0:01:16.900000 - "What fraction of this pizza has olives on it?"
+0:01:20.960000 - Well, we have four total slices. They all are equal slices. We have four equal sections here
+0:01:27.760000 - and one of those equal sections has olives, so we could say one-fourth of this pizza
+0:01:34.780000 - one-fourth of the pizza
+0:01:37.940000 - the pizza,
+0:01:39.120000 - has,
+0:01:40.620000 - has olives.
+0:01:43.880000 - One out of the four. Now someone said,
+0:01:46.880000 - "Well what fraction of this pizza only has cheese?".
+0:01:50.360000 - Well this fraction has cheese, but it also has olives so we won't count that.
+0:01:54.300000 - Then we have one, two, three, three fractions three of these equal pieces have only cheese
+0:02:00.080000 - so we could say three out of a total of four pieces of. . .
+0:02:06.260000 - so three fourths of the pizza has only cheese.
+0:02:16.440000 - Let's do a couple more examples because this is probably one of the most important
+0:02:20.380000 - and most useful ideas that you can have in your brains.
+0:02:23.440000 - Let's do another, another few examples.
+0:02:25.300000 - So this is what we sliced up, a pizza.
+0:02:27.700000 - Let's imagine instead that we're looking at a, some animals of some. . .
+0:02:33.720000 - I'd say fruit. Fruit is easier for me to draw
+0:02:36.720000 - So let's say that I have, I have an orange
+0:02:42.480000 - so that's an orange right over there,
+0:02:44.720000 - and I have a Banana. So that's my best attempt at drawing a banana right over here.
+0:02:52.800000 - And I have a lemon.
+0:02:56.160000 - I have a lemon.
+0:02:59.880000 - Just like that. And let's say that I have an apple.
+0:03:05.920000 - I'll draw. . .
+0:03:08.360000 - Actually I'll draw an Apple.
+0:03:10.600000 - It's a little bit of a strange color for an apple, but we'll go with it.
+0:03:13.760000 - So that is my apple right over there, and actually let me draw one more, let me draw a grape.
+0:03:22.560000 - Or grapes.
+0:03:23.720000 - So I have a bunch of grapes right over here.
+0:03:27.360000 - And if I were to ask you, at least the way that it is drawn,
+0:03:30.400000 - "What fraction of my fruit that I have is. . ."
+0:03:35.960000 - Let's say,
+0:03:37.880000 - ". . .is yellow?"
+0:03:40.440000 - "What fraction of my fruit as drawn is yellow?"
+0:03:44.200000 - Well, we could say, we have a total of one, two, three, four, five pieces of fruit
+0:03:50.720000 - So there's a total of five pieces of fruit.
+0:03:53.560000 - And then what fraction of those pieces of fruit are yellow?
+0:03:57.760000 - Well, the way I drew it, I have two yellow pieces right over here.
+0:04:01.280000 - So we'd say, "Two fifths of the fruit is. . ."
+0:04:08.680000 - and it's strange that I'm writing this in white so I'll write it in yellow
+0:04:11.720000 - ". . .is yellow."
+0:04:14.800000 - Two fifths is yellow.
+0:04:16.920000 - Let me do one more example to just really make the point clear.
+0:04:21.520000 - So let me draw a candy bar, and this is all food-related. I guess it's getting close to dinnertime. I apologize.
+0:04:28.640000 - So let's say I have a candy bar. Just like that.
+0:04:31.400000 - And let me divide it into
+0:04:33.160000 - let me divide it into 5 equal pieces 1
+0:04:35.720000 - one, two, three, four
+0:04:39.800000 - that doesn't look too equal.
+0:04:41.200000 - So the whole point is to do it equal,
+0:04:42.480000 - one, two, three, four
+0:04:45.080000 - that looks pretty close.
+0:04:46.720000 - So let's assume that these are equal pieces.
+0:04:49.360000 - So my drawing isn't perfect but let's assume all of these pieces are equal
+0:04:52.880000 - and I'm hungry so let's say that I eat
+0:04:56.040000 - I eat this piece, and I eat this piece so they essentially go away.
+0:05:01.880000 - So what fraction of the pieces have I eaten?
+0:05:05.120000 - Well, I have a total of five pieces. There's a total of five equal sections of this candy bar I guess I could say.
+0:05:12.200000 - And I ate two of them, so two fifths
+0:05:15.480000 - two-fifths of this bar, so this is, I've taken them away
+0:05:20.520000 - two-fifths of the bar have been eaten.
+0:05:26.800000 - Have been eaten.
+0:05:29 - So I'll leave you there, maybe I'll make another video that doesn't have as many food analogies,
+0:05:33.680000 - but this is a super useful concept and I encourage you to think about this as much as possible
+0:05:37.840000 - and then try the exercises on Khan Academy
